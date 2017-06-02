@@ -1,0 +1,4 @@
+ALTER TABLE scores
+ADD CONSTRAINT user_scores
+FOREIGN KEY (user_id) REFERENCES users(id)
+ON DELETE CASCADE;

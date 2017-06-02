@@ -1,0 +1,8362 @@
+[
+  {
+    "word": "abbreviation",
+    "trans": "n.节略，缩写，缩短"
+  },
+  {
+    "word": "abide",
+    "trans": "vt.遵守 vt.忍受"
+  },
+  {
+    "word": "abolish",
+    "trans": "vt.废除，取消"
+  },
+  {
+    "word": "absent",
+    "trans": "a.不在意的"
+  },
+  {
+    "word": "absorption",
+    "trans": "n.吸收；专注"
+  },
+  {
+    "word": "abstract",
+    "trans": "a.理论上的 n.抽象"
+  },
+  {
+    "word": "absurd",
+    "trans": "a.不合理的，荒唐的"
+  },
+  {
+    "word": "abundance",
+    "trans": "n.丰富，充裕"
+  },
+  {
+    "word": "accessory",
+    "trans": "n.同谋 a.附属的"
+  },
+  {
+    "word": "accord",
+    "trans": "n.调和，符合；协议"
+  },
+  {
+    "word": "acknowledge",
+    "trans": "vt.承认；告知收到"
+  },
+  {
+    "word": "acquaint",
+    "trans": "vt.使认识，使了解"
+  },
+  {
+    "word": "action",
+    "trans": "n.作用；情节"
+  },
+  {
+    "word": "adhere",
+    "trans": "vi.粘附；追随；坚持"
+  },
+  {
+    "word": "adjacent",
+    "trans": "a.毗连的；紧接着的"
+  },
+  {
+    "word": "adjoin",
+    "trans": "vt.贴近，毗连；靠近"
+  },
+  {
+    "word": "adjustable",
+    "trans": "a.可调整的，可校准的"
+  },
+  {
+    "word": "administration",
+    "trans": "n.局(或署、处等)"
+  },
+  {
+    "word": "admiration",
+    "trans": "n.钦佩；赞美，羡慕"
+  },
+  {
+    "word": "adoption",
+    "trans": "n.收养；采纳，采取"
+  },
+  {
+    "word": "adore",
+    "trans": "vt.崇拜；很喜欢"
+  },
+  {
+    "word": "advantageous",
+    "trans": "a.有利的，有助的"
+  },
+  {
+    "word": "advertise",
+    "trans": "vt.通知 vi.登广告"
+  },
+  {
+    "word": "advocate",
+    "trans": "n.辩护者 vt.拥护"
+  },
+  {
+    "word": "aerial",
+    "trans": "a.空气的；航空的"
+  },
+  {
+    "word": "aerospace",
+    "trans": "n.航空和宇宙航行空间"
+  },
+  {
+    "word": "affirm",
+    "trans": "vt.断言，批准；证实"
+  },
+  {
+    "word": "agitation",
+    "trans": "n.鼓动，煸动；搅动"
+  },
+  {
+    "word": "agreeable",
+    "trans": "a.惬意的；同意的"
+  },
+  {
+    "word": "alas",
+    "trans": "int.唉，哎呀"
+  },
+  {
+    "word": "album",
+    "trans": "n.粘贴簿；相册；文选"
+  },
+  {
+    "word": "alert",
+    "trans": "a.警惕的；活跃的"
+  },
+  {
+    "word": "algebra",
+    "trans": "n.代数学"
+  },
+  {
+    "word": "alien",
+    "trans": "a.外国的 n.外国人"
+  },
+  {
+    "word": "alignment",
+    "trans": "n.队列；结盟，联合"
+  },
+  {
+    "word": "allied",
+    "trans": "a.联合的；联姻的"
+  },
+  {
+    "word": "allowance",
+    "trans": "n津贴，补助费"
+  },
+  {
+    "word": "alongside",
+    "trans": "prep.在…旁边"
+  },
+  {
+    "word": "ally",
+    "trans": "n.盟国，同盟者，伙伴"
+  },
+  {
+    "word": "alteration",
+    "trans": "n.变更，改变；蚀变"
+  },
+  {
+    "word": "alternate",
+    "trans": "vt.使交替 a.交替的"
+  },
+  {
+    "word": "amateur",
+    "trans": "a.业余的n.业余爱好者"
+  },
+  {
+    "word": "ambassador",
+    "trans": "n.大使，使节"
+  },
+  {
+    "word": "ambient",
+    "trans": "a.周围的，包围着的"
+  },
+  {
+    "word": "ambiguous",
+    "trans": "a.模棱两可的；分歧的"
+  },
+  {
+    "word": "ambitious",
+    "trans": "a.有雄心的；热望的"
+  },
+  {
+    "word": "ample",
+    "trans": "a.足够的；宽敞的"
+  },
+  {
+    "word": "amplitude",
+    "trans": "n.广大；充足；振幅"
+  },
+  {
+    "word": "amusement",
+    "trans": "n.娱乐，消遣，乐趣"
+  },
+  {
+    "word": "analogue",
+    "trans": "n.类似物；同源语"
+  },
+  {
+    "word": "analogy",
+    "trans": "n.相似，类似；比拟"
+  },
+  {
+    "word": "analytic(al)",
+    "trans": "a.分析的；分解的"
+  },
+  {
+    "word": "anniversary",
+    "trans": "n.周年纪念日"
+  },
+  {
+    "word": "announce",
+    "trans": "vt.报告…的来到"
+  },
+  {
+    "word": "annually",
+    "trans": "ad.年年，每年"
+  },
+  {
+    "word": "anode",
+    "trans": "n.阳极，正极，板极"
+  },
+  {
+    "word": "answer",
+    "trans": "vi.符合，适合"
+  },
+  {
+    "word": "antarctic",
+    "trans": "a.南极的 n.南极区"
+  },
+  {
+    "word": "antenna",
+    "trans": "n.触角；天线"
+  },
+  {
+    "word": "antique",
+    "trans": "a.古代的 n.古物"
+  },
+  {
+    "word": "anybody",
+    "trans": "n.重要人物"
+  },
+  {
+    "word": "apparent",
+    "trans": "a.显然的"
+  },
+  {
+    "word": "appendix",
+    "trans": "n.附录，附属物；阑尾"
+  },
+  {
+    "word": "applaud",
+    "trans": "vt.喝彩；欢呼vi.欢呼"
+  },
+  {
+    "word": "applause",
+    "trans": "n.喝彩；夸奖，称赞"
+  },
+  {
+    "word": "appreciable",
+    "trans": "a.可估价的；可察觉的"
+  },
+  {
+    "word": "appreciation",
+    "trans": "n.欣赏；鉴别；感激"
+  },
+  {
+    "word": "apt",
+    "trans": "a.恰当的；聪明的"
+  },
+  {
+    "word": "arc",
+    "trans": "n.弧，弓形物；弧光"
+  },
+  {
+    "word": "arch",
+    "trans": "n.拱门 vt.用拱连接"
+  },
+  {
+    "word": "architect",
+    "trans": "n.建筑师；创造者"
+  },
+  {
+    "word": "arctic",
+    "trans": "a.北极的 n.北极"
+  },
+  {
+    "word": "array",
+    "trans": "vt.装扮 n.队列；排列"
+  },
+  {
+    "word": "ascend",
+    "trans": "vi.攀登，登高；追溯"
+  },
+  {
+    "word": "ascertain",
+    "trans": "vt.查明，确定，弄清"
+  },
+  {
+    "word": "ascribe",
+    "trans": "vt.把…归于"
+  },
+  {
+    "word": "ashore",
+    "trans": "ad.在岸上，上岸"
+  },
+  {
+    "word": "ass",
+    "trans": "n.驴；傻瓜，蠢笨的人"
+  },
+  {
+    "word": "assassinate",
+    "trans": "vt.暗杀，行刺；中伤"
+  },
+  {
+    "word": "assault",
+    "trans": "vt.袭击；殴打 n.攻击"
+  },
+  {
+    "word": "assert",
+    "trans": "vt.断言，宣称；维护"
+  },
+  {
+    "word": "assessment",
+    "trans": "n.估定；查定；估计数"
+  },
+  {
+    "word": "assumption",
+    "trans": "n.采取；假定；傲慢"
+  },
+  {
+    "word": "assurance",
+    "trans": "n.保证；财产转让书"
+  },
+  {
+    "word": "astonishment",
+    "trans": "n.惊奇，惊讶"
+  },
+  {
+    "word": "astronomy",
+    "trans": "n.天文学"
+  },
+  {
+    "word": "atom",
+    "trans": "n.微粒；微量"
+  },
+  {
+    "word": "attachment",
+    "trans": "n.连接物，附件；爱慕"
+  },
+  {
+    "word": "attendance",
+    "trans": "n.到场；出席人数"
+  },
+  {
+    "word": "attendant",
+    "trans": "n.侍者；护理人员"
+  },
+  {
+    "word": "attorney",
+    "trans": "n.代理人；辩护律师"
+  },
+  {
+    "word": "audience",
+    "trans": "n.正式会见；拜会"
+  },
+  {
+    "word": "author",
+    "trans": "n.创造者，创始人"
+  },
+  {
+    "word": "automate",
+    "trans": "vt.使自动化"
+  },
+  {
+    "word": "avail",
+    "trans": "vt.有益于 n.效用"
+  },
+  {
+    "word": "availability",
+    "trans": "n.有效(性)；可得性"
+  },
+  {
+    "word": "aviation",
+    "trans": "n.飞行"
+  },
+  {
+    "word": "awake",
+    "trans": "vi.认识到"
+  },
+  {
+    "word": "awful",
+    "trans": "a.威严的；令人崇敬的"
+  },
+  {
+    "word": "awkward",
+    "trans": "a.不雅观的"
+  },
+  {
+    "word": "axial",
+    "trans": "a.轴的；轴向的"
+  },
+  {
+    "word": "axis",
+    "trans": "n.轴，轴线；第二颈椎"
+  },
+  {
+    "word": "axle",
+    "trans": "n.(轮)轴，车轴，心棒"
+  },
+  {
+    "word": "baby",
+    "trans": "n.一家中年龄最小的人"
+  },
+  {
+    "word": "bachelor",
+    "trans": "n.未婚男子；学士"
+  },
+  {
+    "word": "bacon",
+    "trans": "n.咸猪肉，熏猪肉"
+  },
+  {
+    "word": "bacterium",
+    "trans": "n.细菌；拳击迷"
+  },
+  {
+    "word": "badge",
+    "trans": "n.徽章，像章；标志"
+  },
+  {
+    "word": "baffle",
+    "trans": "vt.使挫折 n.迷惑"
+  },
+  {
+    "word": "bait",
+    "trans": "n.饵；引诱物"
+  },
+  {
+    "word": "balcony",
+    "trans": "n.阳台；楼厅，楼座"
+  },
+  {
+    "word": "bald",
+    "trans": "a.秃头的；无毛的"
+  },
+  {
+    "word": "ballet",
+    "trans": "n.芭蕾舞；舞剧"
+  },
+  {
+    "word": "bamboo",
+    "trans": "n.竹；竹杆，竹棍"
+  },
+  {
+    "word": "bandage",
+    "trans": "n.绷带，包带"
+  },
+  {
+    "word": "bandit",
+    "trans": "n.土匪，盗匪，歹徒"
+  },
+  {
+    "word": "bank",
+    "trans": "vi.把钱存入银行"
+  },
+  {
+    "word": "banker",
+    "trans": "n.银行家"
+  },
+  {
+    "word": "bankrupt",
+    "trans": "a.破产的 vt.使破产"
+  },
+  {
+    "word": "banquet",
+    "trans": "n.宴会，盛会，酒席"
+  },
+  {
+    "word": "barely",
+    "trans": "ad.仅仅，勉强"
+  },
+  {
+    "word": "barge",
+    "trans": "n.驳船；大型游船"
+  },
+  {
+    "word": "barley",
+    "trans": "n.大麦"
+  },
+  {
+    "word": "barometer",
+    "trans": "n.气压计，睛雨表"
+  },
+  {
+    "word": "baron",
+    "trans": "n.男爵；贵族；巨商"
+  },
+  {
+    "word": "barren",
+    "trans": "a.贫瘠的；不妊的"
+  },
+  {
+    "word": "baseball",
+    "trans": "n.棒球；棒球运动"
+  },
+  {
+    "word": "basement",
+    "trans": "n.地下室；地窖；底层"
+  },
+  {
+    "word": "basin",
+    "trans": "n.内海；盆地，流域"
+  },
+  {
+    "word": "battery",
+    "trans": "n.炮兵连；兵器群"
+  },
+  {
+    "word": "battle",
+    "trans": "vi.战斗 vt.与…作战"
+  },
+  {
+    "word": "bazaar",
+    "trans": "n.集市，廉价商店"
+  },
+  {
+    "word": "bead",
+    "trans": "n.有孔小珠；露珠"
+  },
+  {
+    "word": "beam",
+    "trans": "vi.发光，发热；微笑"
+  },
+  {
+    "word": "bearing",
+    "trans": "n.支承；忍受；方位"
+  },
+  {
+    "word": "bed",
+    "trans": "n.河床，(湖)底，矿床"
+  },
+  {
+    "word": "beetle",
+    "trans": "n.甲虫；近视眼的人"
+  },
+  {
+    "word": "beforehand",
+    "trans": "ad.预先；提前地"
+  },
+  {
+    "word": "bend",
+    "trans": "vt.使屈从 vi.屈从"
+  },
+  {
+    "word": "bestow",
+    "trans": "vt.把…赠与"
+  },
+  {
+    "word": "between",
+    "trans": "ad.当中，中间"
+  },
+  {
+    "word": "beware",
+    "trans": "vt.&vi.谨防，当心"
+  },
+  {
+    "word": "bewilder",
+    "trans": "vt.迷惑，把…弄糊涂"
+  },
+  {
+    "word": "bid",
+    "trans": "vt.命令 vi.报价"
+  },
+  {
+    "word": "bishop",
+    "trans": "n.(基督教的)主教"
+  },
+  {
+    "word": "bitterness",
+    "trans": "n.苦味，辛酸，苦难"
+  },
+  {
+    "word": "blacksmith",
+    "trans": "n.铁匠，锻工"
+  },
+  {
+    "word": "blast",
+    "trans": "n.管乐器的声音"
+  },
+  {
+    "word": "blaze",
+    "trans": "vt.使燃烧 vi.燃烧"
+  },
+  {
+    "word": "bleach",
+    "trans": "vt.漂白 vi.变白"
+  },
+  {
+    "word": "blind",
+    "trans": "n.百叶窗；窗帘；遮帘"
+  },
+  {
+    "word": "block",
+    "trans": "n.阻塞；障碍物；炮闩"
+  },
+  {
+    "word": "blond",
+    "trans": "n.白肤金发碧眼的人"
+  },
+  {
+    "word": "blouse",
+    "trans": "n.女衬衫；童衫；罩衫"
+  },
+  {
+    "word": "blue",
+    "trans": "a.伤心的；下流的"
+  },
+  {
+    "word": "blunder",
+    "trans": "vi.犯大错 n.大错"
+  },
+  {
+    "word": "blush",
+    "trans": "vi.脸红，害臊 n.脸红"
+  },
+  {
+    "word": "board",
+    "trans": "vt.(收费)供…膳食"
+  },
+  {
+    "word": "body",
+    "trans": "n.物体；(液)体；实质"
+  },
+  {
+    "word": "boiler",
+    "trans": "n.锅炉；热水贮槽"
+  },
+  {
+    "word": "bore",
+    "trans": "n.讨厌的人；麻烦事"
+  },
+  {
+    "word": "bound",
+    "trans": "a.应当的；必定的"
+  },
+  {
+    "word": "bourgeois",
+    "trans": "a.资产阶级的；平庸的"
+  },
+  {
+    "word": "box",
+    "trans": "n.专席"
+  },
+  {
+    "word": "boycott",
+    "trans": "vt.&n.联合抵制"
+  },
+  {
+    "word": "brace",
+    "trans": "n.支柱 vt.拉紧，撑牢"
+  },
+  {
+    "word": "brand",
+    "trans": "vt.在…上打烙印"
+  },
+  {
+    "word": "breakdown",
+    "trans": "n.崩溃，倒塌；失败"
+  },
+  {
+    "word": "breakfast",
+    "trans": "vi.吃早餐"
+  },
+  {
+    "word": "breed",
+    "trans": "n.(动物)品种"
+  },
+  {
+    "word": "bribe",
+    "trans": "n.贿赂 vt.向…行贿"
+  },
+  {
+    "word": "bridegroom",
+    "trans": "n.新郎"
+  },
+  {
+    "word": "bridge",
+    "trans": "vt.架桥于，用桥连接"
+  },
+  {
+    "word": "bridle",
+    "trans": "n.笼子；束缚 vt.抑制"
+  },
+  {
+    "word": "brightness",
+    "trans": "n.明亮，辉煌，聪明"
+  },
+  {
+    "word": "broaden",
+    "trans": "vt.&vi.放宽，变阔"
+  },
+  {
+    "word": "bronze",
+    "trans": "n.青铜色"
+  },
+  {
+    "word": "brood",
+    "trans": "vt.沉思vi.郁闭地沉思"
+  },
+  {
+    "word": "Buddhism",
+    "trans": "n.佛教，释教"
+  },
+  {
+    "word": "budget",
+    "trans": "n.预算，预算案"
+  },
+  {
+    "word": "buffalo",
+    "trans": "n.水牛；水陆坦克"
+  },
+  {
+    "word": "bug",
+    "trans": "n.虫子；臭虫"
+  },
+  {
+    "word": "bugle",
+    "trans": "n.军号，喇叭"
+  },
+  {
+    "word": "bull",
+    "trans": "n.买空的证券投机商"
+  },
+  {
+    "word": "bulletin",
+    "trans": "告示，公告，公报"
+  },
+  {
+    "word": "bump",
+    "trans": "vt.撞击 vi.撞 n.肿块"
+  },
+  {
+    "word": "bureaucracy",
+    "trans": "n.官僚主义；官僚机构"
+  },
+  {
+    "word": "burglar",
+    "trans": "n.夜盗，窃贼"
+  },
+  {
+    "word": "burial",
+    "trans": "n.安葬，埋葬，埋藏"
+  },
+  {
+    "word": "burner",
+    "trans": "n.灯头，煤气头"
+  },
+  {
+    "word": "bushel",
+    "trans": "n.蒲式耳(容量单位)"
+  },
+  {
+    "word": "butt",
+    "trans": "n.大酒桶，桶"
+  },
+  {
+    "word": "buzz",
+    "trans": "vi.(蜂等)嗡嗡叫"
+  },
+  {
+    "word": "bypass",
+    "trans": "n.旁通管 vt.绕过"
+  },
+  {
+    "word": "by-product",
+    "trans": "n.副产品"
+  },
+  {
+    "word": "cable",
+    "trans": "n.海底电报"
+  },
+  {
+    "word": "calculus",
+    "trans": "n.微积分；结石"
+  },
+  {
+    "word": "calibration",
+    "trans": "n.校准；标定，刻度"
+  },
+  {
+    "word": "can",
+    "trans": "vt.装罐头"
+  },
+  {
+    "word": "cane",
+    "trans": "n.(藤等)茎；手杖"
+  },
+  {
+    "word": "cancel",
+    "trans": "vt.删去，勾销，取消"
+  },
+  {
+    "word": "capability",
+    "trans": "n.能力，才能；性能"
+  },
+  {
+    "word": "capacitance",
+    "trans": "n.电容，电容量"
+  },
+  {
+    "word": "capacitor",
+    "trans": "n.电容器"
+  },
+  {
+    "word": "cape",
+    "trans": "n.披肩，斗篷；海角"
+  },
+  {
+    "word": "captive",
+    "trans": "a.被俘虏的；被迷住的"
+  },
+  {
+    "word": "carry",
+    "trans": "vt.刊登"
+  },
+  {
+    "word": "cartoon",
+    "trans": "n.漫画，动画片"
+  },
+  {
+    "word": "cartridge",
+    "trans": "n.弹药筒，子弹；软片"
+  },
+  {
+    "word": "catalogue",
+    "trans": "vt.为…编目录"
+  },
+  {
+    "word": "catalyst",
+    "trans": "n.催化剂；刺激因素"
+  },
+  {
+    "word": "category",
+    "trans": "n.种类，类目；范畴"
+  },
+  {
+    "word": "cater",
+    "trans": "vi.迎合，投合"
+  },
+  {
+    "word": "Catholic",
+    "trans": "a.天主教的n.天主教徒"
+  },
+  {
+    "word": "caution",
+    "trans": "n.小心；告诫 vt.警告"
+  },
+  {
+    "word": "cautious",
+    "trans": "a.小心的，谨慎的"
+  },
+  {
+    "word": "cavity",
+    "trans": "n.洞，穴，空腔"
+  },
+  {
+    "word": "cement",
+    "trans": "vt.粘结 vi.粘紧"
+  },
+  {
+    "word": "censor",
+    "trans": "vt.审查，检查"
+  },
+  {
+    "word": "cereal",
+    "trans": "n.谷类，五谷，禾谷"
+  },
+  {
+    "word": "certainty",
+    "trans": "n.确实性，确信，确实"
+  },
+  {
+    "word": "challenge",
+    "trans": "n.艰巨任务；要求回避"
+  },
+  {
+    "word": "champion",
+    "trans": "n.斗士；提倡者"
+  },
+  {
+    "word": "characterize",
+    "trans": "vt.表示…的特性"
+  },
+  {
+    "word": "charcoal",
+    "trans": "n.炭，木炭；生物炭"
+  },
+  {
+    "word": "charge",
+    "trans": "n.负荷；充电 vt.装满"
+  },
+  {
+    "word": "charm",
+    "trans": "n.魅力；妩媚 vi.迷人"
+  },
+  {
+    "word": "charter",
+    "trans": "vt.租 n.宪章；契据"
+  },
+  {
+    "word": "chatter",
+    "trans": "vi.&n.喋喋不休"
+  },
+  {
+    "word": "cheat",
+    "trans": "n.欺诈；骗取"
+  },
+  {
+    "word": "check",
+    "trans": "n.支票，帐单"
+  },
+  {
+    "word": "cherish",
+    "trans": "vt.珍爱；怀有(感情)"
+  },
+  {
+    "word": "chestnut",
+    "trans": "n.栗子；栗树；栗色"
+  },
+  {
+    "word": "chill",
+    "trans": "vi.感到寒冷；冷淬"
+  },
+  {
+    "word": "chip",
+    "trans": "n.薄片，碎片"
+  },
+  {
+    "word": "choice",
+    "trans": "n.入选者 a.优等的"
+  },
+  {
+    "word": "chop",
+    "trans": "n.一块排骨，肉块"
+  },
+  {
+    "word": "chord",
+    "trans": "n.(乐器的)弦 vi.协调"
+  },
+  {
+    "word": "chorus",
+    "trans": "vt.&vi.合唱"
+  },
+  {
+    "word": "Christ",
+    "trans": "n.救世主(耶稣基督)"
+  },
+  {
+    "word": "Christian",
+    "trans": "a.基督教的"
+  },
+  {
+    "word": "cigar",
+    "trans": "n.雪茄烟，叶卷烟"
+  },
+  {
+    "word": "circular",
+    "trans": "n.传单，通报，通函"
+  },
+  {
+    "word": "circulation",
+    "trans": "n.循环；(货币等)流通"
+  },
+  {
+    "word": "circus",
+    "trans": "n.马戏；马戏团"
+  },
+  {
+    "word": "cite",
+    "trans": "vt.引用，引证；举例"
+  },
+  {
+    "word": "civilian",
+    "trans": "n.平民 a.平民的"
+  },
+  {
+    "word": "claim",
+    "trans": "n.权利，所有权"
+  },
+  {
+    "word": "clamp",
+    "trans": "n.夹子 vt.夹住，夹紧"
+  },
+  {
+    "word": "clap",
+    "trans": "n.拍手喝采声；霹雳声"
+  },
+  {
+    "word": "clash",
+    "trans": "n.碰撞声；抵触，冲突"
+  },
+  {
+    "word": "clasp",
+    "trans": "vt.扣住，扣紧，钩住"
+  },
+  {
+    "word": "classic",
+    "trans": "n.名著 a.不朽的"
+  },
+  {
+    "word": "clatter",
+    "trans": "n.得得声，卡嗒声"
+  },
+  {
+    "word": "cleanliness",
+    "trans": "n.清洁"
+  },
+  {
+    "word": "clearing",
+    "trans": "n.(森林中的)空旷地"
+  },
+  {
+    "word": "client",
+    "trans": "n.顾客；诉讼委托人"
+  },
+  {
+    "word": "climax",
+    "trans": "n.(兴趣的)顶点"
+  },
+  {
+    "word": "cling",
+    "trans": "vi.粘住；依附；坚持"
+  },
+  {
+    "word": "clinic",
+    "trans": "n.诊所，医务室；会诊"
+  },
+  {
+    "word": "clip",
+    "trans": "vt.夹住 n.夹子，钳子"
+  },
+  {
+    "word": "clip",
+    "trans": "vt.剪；剪辑报刊"
+  },
+  {
+    "word": "cloak",
+    "trans": "vt.掩盖，覆盖，掩饰"
+  },
+  {
+    "word": "clockwise",
+    "trans": "a.&ad.顺时针方向转的"
+  },
+  {
+    "word": "closet",
+    "trans": "n.小房间；壁碗橱"
+  },
+  {
+    "word": "cloudy",
+    "trans": "a.混浊的；模糊不清的"
+  },
+  {
+    "word": "clown",
+    "trans": "n.(马戏的)小丑，丑角"
+  },
+  {
+    "word": "cluster",
+    "trans": "n.一串 vt.使成群"
+  },
+  {
+    "word": "clutch",
+    "trans": "vt.抓住 vi.掌握，攫"
+  },
+  {
+    "word": "coach",
+    "trans": "vt.辅导，指导，训练"
+  },
+  {
+    "word": "cock",
+    "trans": "n.旋塞，开关，龙头"
+  },
+  {
+    "word": "coefficient",
+    "trans": "n.协同因素；系数，率"
+  },
+  {
+    "word": "coffin",
+    "trans": "n.棺材，柩"
+  },
+  {
+    "word": "coherent",
+    "trans": "a.粘着的；紧凑的"
+  },
+  {
+    "word": "coin",
+    "trans": "vt.铸造(硬币)"
+  },
+  {
+    "word": "coincide",
+    "trans": "vi.相符合；相巧合"
+  },
+  {
+    "word": "coke",
+    "trans": "n.焦炭 vt.&vi.炼焦"
+  },
+  {
+    "word": "collaborate",
+    "trans": "vi.协作，合作；协调"
+  },
+  {
+    "word": "collide",
+    "trans": "vi.碰撞；冲突，抵触"
+  },
+  {
+    "word": "colonial",
+    "trans": "a.殖民地的，殖民的"
+  },
+  {
+    "word": "colonist",
+    "trans": "n.移民；殖民地居民"
+  },
+  {
+    "word": "combat",
+    "trans": "vt.跟…战斗 vi.格斗"
+  },
+  {
+    "word": "combustion",
+    "trans": "n.燃烧；氧化；骚动"
+  },
+  {
+    "word": "comedy",
+    "trans": "n.喜剧；喜剧场面"
+  },
+  {
+    "word": "commence",
+    "trans": "vt.开始 vi.获得学位"
+  },
+  {
+    "word": "commend",
+    "trans": "vt.称赞，表扬；推荐"
+  },
+  {
+    "word": "commission",
+    "trans": "n.委托，委任；委托状"
+  },
+  {
+    "word": "commodity",
+    "trans": "n.日用品，商品，物品"
+  },
+  {
+    "word": "commonplace",
+    "trans": "a.平凡的 n.平常话"
+  },
+  {
+    "word": "commonsense",
+    "trans": "a.有常识的"
+  },
+  {
+    "word": "commonwealth",
+    "trans": "n.共和国；联邦"
+  },
+  {
+    "word": "compact",
+    "trans": "a.紧密的 vt.使紧凑"
+  },
+  {
+    "word": "comparable",
+    "trans": "a.可比较的；类似的"
+  },
+  {
+    "word": "compatible",
+    "trans": "a.一致的；兼容制的"
+  },
+  {
+    "word": "compensate",
+    "trans": "vt.&vi.补偿，赔偿"
+  },
+  {
+    "word": "compensation",
+    "trans": "n.补偿，赔偿，赔偿费"
+  },
+  {
+    "word": "competitive",
+    "trans": "a.竞争的，比赛的"
+  },
+  {
+    "word": "competitor",
+    "trans": "n.竞争者，敌手"
+  },
+  {
+    "word": "complaint",
+    "trans": "n.疾病，病痛；主诉"
+  },
+  {
+    "word": "complement",
+    "trans": "vt.补充 n.补足(物)"
+  },
+  {
+    "word": "completion",
+    "trans": "n.完成，结束，完满"
+  },
+  {
+    "word": "complexity",
+    "trans": "n.复杂(性)"
+  },
+  {
+    "word": "complication",
+    "trans": "n.复杂，混乱；并发症"
+  },
+  {
+    "word": "compliment",
+    "trans": "n.问候 vt.赞美，祝贺"
+  },
+  {
+    "word": "comply",
+    "trans": "vi.应允，遵照，照做"
+  },
+  {
+    "word": "composer",
+    "trans": "n.作曲家；调停人"
+  },
+  {
+    "word": "composite",
+    "trans": "a.合成的 n.合成物"
+  },
+  {
+    "word": "composition",
+    "trans": "n.组成，构成，结构"
+  },
+  {
+    "word": "comprehend",
+    "trans": "vt.了解，理解，领会"
+  },
+  {
+    "word": "compression",
+    "trans": "n.压缩，压紧，浓缩"
+  },
+  {
+    "word": "compulsory",
+    "trans": "a.强迫的，义务的"
+  },
+  {
+    "word": "conceit",
+    "trans": "n.自负，自高自大"
+  },
+  {
+    "word": "conceive",
+    "trans": "vt.设想，以为；怀孕"
+  },
+  {
+    "word": "concentrate",
+    "trans": "vt.&vi.浓缩，提浓"
+  },
+  {
+    "word": "conception",
+    "trans": "n.概念，观念，想法"
+  },
+  {
+    "word": "concern",
+    "trans": "n.所关切的事；商行"
+  },
+  {
+    "word": "concert",
+    "trans": "n.一齐，一致，协作"
+  },
+  {
+    "word": "concession",
+    "trans": "n.让步，迁就"
+  },
+  {
+    "word": "confidence",
+    "trans": "n.私房话，秘密，机密"
+  },
+  {
+    "word": "confidential",
+    "trans": "a.秘密的；亲信的"
+  },
+  {
+    "word": "confirmation",
+    "trans": "n.证实，确定；确认"
+  },
+  {
+    "word": "conform",
+    "trans": "vt.使遵守 vi.一致"
+  },
+  {
+    "word": "confront",
+    "trans": "vt.使面对；使对证"
+  },
+  {
+    "word": "conqueror",
+    "trans": "n.征服者，胜利者"
+  },
+  {
+    "word": "consciousness",
+    "trans": "n.意识，知觉，觉悟"
+  },
+  {
+    "word": "consequence",
+    "trans": "n.重要(性)，重大意义"
+  },
+  {
+    "word": "consequent",
+    "trans": "a.作为结果的；必然的"
+  },
+  {
+    "word": "conservative",
+    "trans": "a.有保存力的，防腐的"
+  },
+  {
+    "word": "consistent",
+    "trans": "a.前后一致的，连贯的"
+  },
+  {
+    "word": "console",
+    "trans": "n.悬臂，肘托；控制台"
+  },
+  {
+    "word": "consolidate",
+    "trans": "vt.巩固 vi.合并"
+  },
+  {
+    "word": "constituent",
+    "trans": "a.形成的 n.选民"
+  },
+  {
+    "word": "constitute",
+    "trans": "vt.构成，组成"
+  },
+  {
+    "word": "constitution",
+    "trans": "n.(人的)体格，素质"
+  },
+  {
+    "word": "constraint",
+    "trans": "n.强迫，结束；强制力"
+  },
+  {
+    "word": "construction",
+    "trans": "n.结构；作图(法)"
+  },
+  {
+    "word": "consul",
+    "trans": "n.领事"
+  },
+  {
+    "word": "consumer",
+    "trans": "n.消费者，用户"
+  },
+  {
+    "word": "consumption",
+    "trans": "n.消费(量)，灭绝"
+  },
+  {
+    "word": "contend",
+    "trans": "vi.竞争 vt.坚决主张"
+  },
+  {
+    "word": "context",
+    "trans": "n.上下文；来龙去脉"
+  },
+  {
+    "word": "continental",
+    "trans": "a.大陆的，大陆性的"
+  },
+  {
+    "word": "contradict",
+    "trans": "vt.反驳，否认"
+  },
+  {
+    "word": "contrary",
+    "trans": "n.反对命题"
+  },
+  {
+    "word": "contrast",
+    "trans": "vt.使对比vi.形成对比"
+  },
+  {
+    "word": "controversy",
+    "trans": "n.争论，辩论，争吵"
+  },
+  {
+    "word": "convention",
+    "trans": "n.公约，(换俘等)协定"
+  },
+  {
+    "word": "convert",
+    "trans": "vt.转变，改变，变换"
+  },
+  {
+    "word": "convey",
+    "trans": "vt.传达；传播；转让"
+  },
+  {
+    "word": "conviction",
+    "trans": "n.确信，信服，深信"
+  },
+  {
+    "word": "cooperative",
+    "trans": "a.合作的 n.合作社"
+  },
+  {
+    "word": "coordinate",
+    "trans": "a.同等的 n.同等的人"
+  },
+  {
+    "word": "correctly",
+    "trans": "ad.正确地，恰当地"
+  },
+  {
+    "word": "correlate",
+    "trans": "n.互相关联的事物"
+  },
+  {
+    "word": "correlation",
+    "trans": "n.相互关系；对射"
+  },
+  {
+    "word": "correspondence",
+    "trans": "n.通信；符合；对应"
+  },
+  {
+    "word": "corrosion",
+    "trans": "n.腐蚀，侵蚀；锈"
+  },
+  {
+    "word": "corrupt",
+    "trans": "vt.贿赂 a.腐败的"
+  },
+  {
+    "word": "cosmic",
+    "trans": "a.宇宙的；广大无边的"
+  },
+  {
+    "word": "cosmos",
+    "trans": "n.宇宙；秩序，和谐"
+  },
+  {
+    "word": "couch",
+    "trans": "n.睡椅，长沙发椅"
+  },
+  {
+    "word": "counsel",
+    "trans": "n.商议；忠告；律师"
+  },
+  {
+    "word": "count",
+    "trans": "n.起拆理由，罪状"
+  },
+  {
+    "word": "counter",
+    "trans": "a.&ad.相反的(地)"
+  },
+  {
+    "word": "courageous",
+    "trans": "a.勇敢的，无畏的"
+  },
+  {
+    "word": "courteous",
+    "trans": "a.有礼貌的，谦恭的"
+  },
+  {
+    "word": "courtesy",
+    "trans": "n.礼貌，谦恭，请安"
+  },
+  {
+    "word": "coward",
+    "trans": "a.懦怯的，胆小的"
+  },
+  {
+    "word": "crab",
+    "trans": "n.蟹，蟹肉 vi.捕蟹"
+  },
+  {
+    "word": "crack",
+    "trans": "vi.&vt.发出爆裂声"
+  },
+  {
+    "word": "cradle",
+    "trans": "n.摇篮，发源地"
+  },
+  {
+    "word": "craft",
+    "trans": "n.技巧"
+  },
+  {
+    "word": "crank",
+    "trans": "n.曲柄 vi.转动曲柄"
+  },
+  {
+    "word": "crash",
+    "trans": "vi.撞坏，摔坏，砸碎"
+  },
+  {
+    "word": "credit",
+    "trans": "vt.&n.相信，信任"
+  },
+  {
+    "word": "crisis",
+    "trans": "n.危机；转折点"
+  },
+  {
+    "word": "crisp",
+    "trans": "a.脆的；卷曲的"
+  },
+  {
+    "word": "criterion",
+    "trans": "n.标准，准则，尺度"
+  },
+  {
+    "word": "crooked",
+    "trans": "a.弯的，歪的；畸形的"
+  },
+  {
+    "word": "cross",
+    "trans": "a.易怒的；杂交的"
+  },
+  {
+    "word": "cruelty",
+    "trans": "n.残酷；残酷行为"
+  },
+  {
+    "word": "cruise",
+    "trans": "vi.巡航 vt.巡航于…"
+  },
+  {
+    "word": "cubic",
+    "trans": "a.立方体的；立方的"
+  },
+  {
+    "word": "cuckoo",
+    "trans": "n.杜鹃，布谷鸟"
+  },
+  {
+    "word": "curly",
+    "trans": "a.卷曲的；有卷毛的"
+  },
+  {
+    "word": "currency",
+    "trans": "n.通货；通用；市价"
+  },
+  {
+    "word": "currently",
+    "trans": "ad.普遍地；当前"
+  },
+  {
+    "word": "custom",
+    "trans": "n.海关，关税"
+  },
+  {
+    "word": "customary",
+    "trans": "a.通常的；照惯例的"
+  },
+  {
+    "word": "cutter",
+    "trans": "n.用于切割的器械"
+  },
+  {
+    "word": "cylinder",
+    "trans": "n.圆筒；柱(面)；汽缸"
+  },
+  {
+    "word": "damn",
+    "trans": "vt.诅咒 n.诅咒；丝毫"
+  },
+  {
+    "word": "datum",
+    "trans": "n.资料；数据；已知数"
+  },
+  {
+    "word": "dazzle",
+    "trans": "vt.&vi.炫耀；迷惑"
+  },
+  {
+    "word": "deafen",
+    "trans": "vt.使聋；使隔音"
+  },
+  {
+    "word": "deal",
+    "trans": "vi.做买卖；对付"
+  },
+  {
+    "word": "dealer",
+    "trans": "n.商人，贩子；发牌者"
+  },
+  {
+    "word": "dean",
+    "trans": "n.(大学)院长，系主任"
+  },
+  {
+    "word": "decay",
+    "trans": "vt.使腐朽，使腐烂"
+  },
+  {
+    "word": "decidedly",
+    "trans": "ad.明确地，坚决地"
+  },
+  {
+    "word": "decimal",
+    "trans": "a.小数的，十进制的"
+  },
+  {
+    "word": "decisive",
+    "trans": "a.决定性的；果断的"
+  },
+  {
+    "word": "declaration",
+    "trans": "n.宣布，宣言；申诉"
+  },
+  {
+    "word": "decline",
+    "trans": "vt.下倾；偏斜；衰退"
+  },
+  {
+    "word": "decompose",
+    "trans": "vt.&vi.腐败；分解"
+  },
+  {
+    "word": "decorative",
+    "trans": "a.装饰的；可作装饰的"
+  },
+  {
+    "word": "decree",
+    "trans": "n.法令，政令；教令"
+  },
+  {
+    "word": "dedicate",
+    "trans": "vt.奉献；献身"
+  },
+  {
+    "word": "deem",
+    "trans": "vt.认为，相信 vi.想"
+  },
+  {
+    "word": "deepen",
+    "trans": "vt.加浓"
+  },
+  {
+    "word": "default",
+    "trans": "n.&vi.不履行；缺席"
+  },
+  {
+    "word": "deficiency",
+    "trans": "n.缺乏；不足之数"
+  },
+  {
+    "word": "deficient",
+    "trans": "a.缺乏的；欠缺的"
+  },
+  {
+    "word": "define",
+    "trans": "vt.规定；立(界限)"
+  },
+  {
+    "word": "deflect",
+    "trans": "vt.&vi.(使)偏斜"
+  },
+  {
+    "word": "deflection",
+    "trans": "n.偏斜，歪斜；偏差"
+  },
+  {
+    "word": "deform",
+    "trans": "vt.损坏…的形状"
+  },
+  {
+    "word": "deformation",
+    "trans": "n.损坏；变形；畸形"
+  },
+  {
+    "word": "defy",
+    "trans": "vt.向…挑战；蔑视"
+  },
+  {
+    "word": "degradation",
+    "trans": "n.降级；退化；衰变"
+  },
+  {
+    "word": "degrade",
+    "trans": "vt.使降给；使堕落"
+  },
+  {
+    "word": "delegate",
+    "trans": "n.代表，委员，特派员"
+  },
+  {
+    "word": "deliberate",
+    "trans": "a.深思熟虑的；审慎的"
+  },
+  {
+    "word": "deliberately",
+    "trans": "ad.审慎地，故意地"
+  },
+  {
+    "word": "denial",
+    "trans": "n.否定；拒绝相信"
+  },
+  {
+    "word": "denote",
+    "trans": "vt.指示，意味着"
+  },
+  {
+    "word": "denounce",
+    "trans": "vt.谴责，声讨；告发"
+  },
+  {
+    "word": "dentist",
+    "trans": "n.牙科医生"
+  },
+  {
+    "word": "dependant",
+    "trans": "n.受赡养者；侍从"
+  },
+  {
+    "word": "deposit",
+    "trans": "n.押金；寄存物"
+  },
+  {
+    "word": "deposition",
+    "trans": "n.免职，罢免；口供"
+  },
+  {
+    "word": "depression",
+    "trans": "n.消沉；不景气萧条期"
+  },
+  {
+    "word": "deprive",
+    "trans": "vt.夺去；使(人)失去"
+  },
+  {
+    "word": "deputy",
+    "trans": "n.代理人 a.副的"
+  },
+  {
+    "word": "derivation",
+    "trans": "n.引出；起源；衍生"
+  },
+  {
+    "word": "descendant",
+    "trans": "n.子孙，后裔；弟子"
+  },
+  {
+    "word": "descent",
+    "trans": "n.下降；出身；斜坡"
+  },
+  {
+    "word": "desert",
+    "trans": "vt.遗弃；擅离(职守)"
+  },
+  {
+    "word": "designate",
+    "trans": "vt.指出，指示；指定"
+  },
+  {
+    "word": "desolate",
+    "trans": "a.荒芜的；孤独的"
+  },
+  {
+    "word": "dessert",
+    "trans": "n.甜点心"
+  },
+  {
+    "word": "destine",
+    "trans": "vt.命定，注定；预定"
+  },
+  {
+    "word": "destiny",
+    "trans": "n.命运，天数"
+  },
+  {
+    "word": "destructive",
+    "trans": "a.破坏(性)的，危害的"
+  },
+  {
+    "word": "detach",
+    "trans": "vt.分开；派遣(军队)"
+  },
+  {
+    "word": "detail",
+    "trans": "n.琐碎，小事"
+  },
+  {
+    "word": "detain",
+    "trans": "vt.耽搁；扣押，拘留"
+  },
+  {
+    "word": "detective",
+    "trans": "n.侦探，密探"
+  },
+  {
+    "word": "detector",
+    "trans": "n.发觉者，探测器"
+  },
+  {
+    "word": "develop",
+    "trans": "vt.使(颜色等)显现"
+  },
+  {
+    "word": "deviate",
+    "trans": "vt.(使)背离，偏离"
+  },
+  {
+    "word": "deviation",
+    "trans": "n.背离，偏离；偏差数"
+  },
+  {
+    "word": "devotion",
+    "trans": "n.献身，热诚，专心"
+  },
+  {
+    "word": "devour",
+    "trans": "vt.吞食；吞灭，毁灭"
+  },
+  {
+    "word": "diagnose",
+    "trans": "vt.诊断(疾病)"
+  },
+  {
+    "word": "dictator",
+    "trans": "n.独裁者，专政者"
+  },
+  {
+    "word": "diesel",
+    "trans": "n.柴油发动机，内燃机"
+  },
+  {
+    "word": "diet",
+    "trans": "n.饮食，食物"
+  },
+  {
+    "word": "difficult",
+    "trans": "a.难以满足的"
+  },
+  {
+    "word": "dignity",
+    "trans": "a.尊贵；(举止)庄严"
+  },
+  {
+    "word": "diminish",
+    "trans": "vt.减少，减小，递减"
+  },
+  {
+    "word": "dine",
+    "trans": "vi.吃饭 vt.宴请"
+  },
+  {
+    "word": "dioxide",
+    "trans": "n.二氧化物"
+  },
+  {
+    "word": "diploma",
+    "trans": "n.毕业文凭，学位证书"
+  },
+  {
+    "word": "diplomatic",
+    "trans": "a.外交的；有策略的"
+  },
+  {
+    "word": "directory",
+    "trans": "n.姓名地址录；董事会"
+  },
+  {
+    "word": "disagreement",
+    "trans": "n.不一致；争论"
+  },
+  {
+    "word": "disappearance",
+    "trans": "n.消失，消散；失踪"
+  },
+  {
+    "word": "disastrous",
+    "trans": "a.灾难性的；悲惨的"
+  },
+  {
+    "word": "discern",
+    "trans": "vt.看出，辨出；辨别"
+  },
+  {
+    "word": "discount",
+    "trans": "n.折扣；打折扣卖"
+  },
+  {
+    "word": "discourse",
+    "trans": "n.讲话，演说，讲道"
+  },
+  {
+    "word": "discrimination",
+    "trans": "n.辨别；识别力；歧视"
+  },
+  {
+    "word": "disgrace",
+    "trans": "n.失宠，耻辱，丢脸"
+  },
+  {
+    "word": "disillusion",
+    "trans": "n.觉醒 vt.使觉醒"
+  },
+  {
+    "word": "dismay",
+    "trans": "n.惊慌，沮丧，灰心"
+  },
+  {
+    "word": "dismiss",
+    "trans": "vt.忘掉"
+  },
+  {
+    "word": "disorder",
+    "trans": "n.疾病，小病"
+  },
+  {
+    "word": "dispatch",
+    "trans": "vt.派遣；调度 n.急件"
+  },
+  {
+    "word": "disperse",
+    "trans": "vt.(使)分散；驱散"
+  },
+  {
+    "word": "displace",
+    "trans": "vt.移置；取代；置换"
+  },
+  {
+    "word": "displacement",
+    "trans": "n.移置；免职；置换"
+  },
+  {
+    "word": "disregard",
+    "trans": "vt.不管，不顾 n.不管"
+  },
+  {
+    "word": "dissatisfaction",
+    "trans": "n.不满，不平"
+  },
+  {
+    "word": "dissipate",
+    "trans": "vt.驱散；浪费vi.消散"
+  },
+  {
+    "word": "dissolve",
+    "trans": "vt.解除(婚约等)"
+  },
+  {
+    "word": "distinct",
+    "trans": "a.独特的"
+  },
+  {
+    "word": "distinctly",
+    "trans": "ad.显然，清楚地"
+  },
+  {
+    "word": "distinguish",
+    "trans": "v.使显出特色，使杰出"
+  },
+  {
+    "word": "distort",
+    "trans": "vt.歪曲，曲解，扭曲"
+  },
+  {
+    "word": "distortion",
+    "trans": "n.弄歪，歪曲；畸变"
+  },
+  {
+    "word": "distract",
+    "trans": "vt.分散(心思)；打扰"
+  },
+  {
+    "word": "disturbance",
+    "trans": "n.动乱；干扰；侵犯"
+  },
+  {
+    "word": "diverge",
+    "trans": "vi.分岔；分歧"
+  },
+  {
+    "word": "diversion",
+    "trans": "n.转移；改道；娱乐"
+  },
+  {
+    "word": "divert",
+    "trans": "vt.使转向 vi.转移"
+  },
+  {
+    "word": "divine",
+    "trans": "a.神的；敬神的"
+  },
+  {
+    "word": "dizzy",
+    "trans": "a.头晕眼花的，眩晕的"
+  },
+  {
+    "word": "dock",
+    "trans": "vt.把…引入船坞"
+  },
+  {
+    "word": "doctrine",
+    "trans": "n.教义，主义；学说"
+  },
+  {
+    "word": "documentary",
+    "trans": "a.纪录的，文献的"
+  },
+  {
+    "word": "dome",
+    "trans": "n.圆屋顶，拱顶"
+  },
+  {
+    "word": "domestic",
+    "trans": "a.养在家里的"
+  },
+  {
+    "word": "dominant",
+    "trans": "a.统治的 n.主因"
+  },
+  {
+    "word": "dominate",
+    "trans": "vt.统治，支配，控制"
+  },
+  {
+    "word": "doom",
+    "trans": "n.命运，毁灭 vt.注定"
+  },
+  {
+    "word": "doubtless",
+    "trans": "ad.无疑地；很可能"
+  },
+  {
+    "word": "dove",
+    "trans": "n.鸽子，斑鸠"
+  },
+  {
+    "word": "drain",
+    "trans": "vi.(水等)流掉"
+  },
+  {
+    "word": "drainage",
+    "trans": "n.排水；下水道"
+  },
+  {
+    "word": "drama",
+    "trans": "n.戏剧性事件；戏剧性"
+  },
+  {
+    "word": "drastic",
+    "trans": "a.激烈的；严厉的"
+  },
+  {
+    "word": "drawback",
+    "trans": "n.退款；妨碍；弊端"
+  },
+  {
+    "word": "dreadful",
+    "trans": "a.可怕的；令人敬畏的"
+  },
+  {
+    "word": "dry",
+    "trans": "a.干巴巴的，枯燥的"
+  },
+  {
+    "word": "duke",
+    "trans": "n.公爵，君主；手"
+  },
+  {
+    "word": "duplicate",
+    "trans": "n.复制品 vt.复制"
+  },
+  {
+    "word": "dust",
+    "trans": "n.垃圾，废品，灰烬"
+  },
+  {
+    "word": "dwarf",
+    "trans": "n.矮子，侏儒"
+  },
+  {
+    "word": "dwell",
+    "trans": "n.居住 vi.凝思，细想"
+  },
+  {
+    "word": "dynamic(al)",
+    "trans": "a.机能上的"
+  },
+  {
+    "word": "dynamo",
+    "trans": "n.发电机"
+  },
+  {
+    "word": "ear",
+    "trans": "n.(稻麦等的)穗"
+  },
+  {
+    "word": "earnings",
+    "trans": "n.工资，收入；收益"
+  },
+  {
+    "word": "earthenware",
+    "trans": "n.陶器"
+  },
+  {
+    "word": "eastward",
+    "trans": "a.&ad.向东的，向东"
+  },
+  {
+    "word": "echo",
+    "trans": "vt.反射(声音等)"
+  },
+  {
+    "word": "eclipse",
+    "trans": "n.(日，月)食"
+  },
+  {
+    "word": "ecology",
+    "trans": "n.生态学；个体生态学"
+  },
+  {
+    "word": "economically",
+    "trans": "ad.节约地，在经济上"
+  },
+  {
+    "word": "economics",
+    "trans": "n.经济学；经济"
+  },
+  {
+    "word": "edit",
+    "trans": "vt.编辑，编纂；校订"
+  },
+  {
+    "word": "editorial",
+    "trans": "n.社论，期刊的社论"
+  },
+  {
+    "word": "Egyptian",
+    "trans": "a.埃及的 n.埃及人"
+  },
+  {
+    "word": "eject",
+    "trans": "vt.逐出，排斥；喷射"
+  },
+  {
+    "word": "elapse",
+    "trans": "vi.(时间)过去，消逝"
+  },
+  {
+    "word": "elbow",
+    "trans": "vt.用肘挤，挤进"
+  },
+  {
+    "word": "electrician",
+    "trans": "n.电工，电气技师"
+  },
+  {
+    "word": "electrode",
+    "trans": "n.电极；电焊条"
+  },
+  {
+    "word": "electronics",
+    "trans": "n.电子学"
+  },
+  {
+    "word": "elegant",
+    "trans": "a.(举止、服饰)雅致的"
+  },
+  {
+    "word": "elemental",
+    "trans": "a.基本的；自然力的"
+  },
+  {
+    "word": "elevate",
+    "trans": "vt.提高(思想)；抬高"
+  },
+  {
+    "word": "elevation",
+    "trans": "n.高度；标高；隆肿"
+  },
+  {
+    "word": "elliptical",
+    "trans": "a.椭圆的；省略的"
+  },
+  {
+    "word": "eloquence",
+    "trans": "n.雄辩；口才，修辞"
+  },
+  {
+    "word": "embarrass",
+    "trans": "vt.使负债；使复杂化"
+  },
+  {
+    "word": "embassy",
+    "trans": "n.大使馆；大使的职务"
+  },
+  {
+    "word": "embody",
+    "trans": "vt.体现；包含，收录"
+  },
+  {
+    "word": "embrace",
+    "trans": "vt.包括，包含；包围"
+  },
+  {
+    "word": "embroidery",
+    "trans": "n.绣花，刺绣；绣制品"
+  },
+  {
+    "word": "emerge",
+    "trans": "vi.浮现，出现；显露"
+  },
+  {
+    "word": "emigrate",
+    "trans": "vi.永久移居国外"
+  },
+  {
+    "word": "emission",
+    "trans": "n.散发；传播；发出物"
+  },
+  {
+    "word": "empirical",
+    "trans": "a.经验主义的"
+  },
+  {
+    "word": "enchant",
+    "trans": "vt.迷住；用魔法迷惑"
+  },
+  {
+    "word": "enclosure",
+    "trans": "n.围绕；围场，围栏"
+  },
+  {
+    "word": "end",
+    "trans": "n.目标，目的"
+  },
+  {
+    "word": "endanger",
+    "trans": "vt.危及，危害"
+  },
+  {
+    "word": "endeavor",
+    "trans": "vi.&n.努力，尽力"
+  },
+  {
+    "word": "endow",
+    "trans": "vt.资助；赋予，授予"
+  },
+  {
+    "word": "endurance",
+    "trans": "n.耐久力，持久力"
+  },
+  {
+    "word": "energetic",
+    "trans": "a.积极的；精力旺盛的"
+  },
+  {
+    "word": "energize",
+    "trans": "vt.给与…能量；电压"
+  },
+  {
+    "word": "engage",
+    "trans": "vt.使(齿轮等)啮合"
+  },
+  {
+    "word": "engagement",
+    "trans": "n.婚约；约会，债务"
+  },
+  {
+    "word": "enhance",
+    "trans": "vt.提高，增加；夸张"
+  },
+  {
+    "word": "enlighten",
+    "trans": "vt.启发，开导；启蒙"
+  },
+  {
+    "word": "enrich",
+    "trans": "vt.使富裕；使丰富"
+  },
+  {
+    "word": "enroll",
+    "trans": "vt.登记，招收vi.参军"
+  },
+  {
+    "word": "enterprise",
+    "trans": "n.艰巨的事业；事业心"
+  },
+  {
+    "word": "entertainment",
+    "trans": "n.招待，招待会"
+  },
+  {
+    "word": "entitle",
+    "trans": "vt.把…称作"
+  },
+  {
+    "word": "entreat",
+    "trans": "vt.&vi.恳求"
+  },
+  {
+    "word": "entry",
+    "trans": "n.通道；条目"
+  },
+  {
+    "word": "environmental",
+    "trans": "a.环境的，环境产生的"
+  },
+  {
+    "word": "episode",
+    "trans": "n.一段情节；插曲"
+  },
+  {
+    "word": "epoch",
+    "trans": "n.(新)时代；历元"
+  },
+  {
+    "word": "equation",
+    "trans": "n.平衡；平均；反应式"
+  },
+  {
+    "word": "equator",
+    "trans": "n.赤道，天球赤道"
+  },
+  {
+    "word": "equilibrium",
+    "trans": "n.平衡，均衡；均衡论"
+  },
+  {
+    "word": "equivalent",
+    "trans": "a.等面(体)积的"
+  },
+  {
+    "word": "erect",
+    "trans": "a.竖起的"
+  },
+  {
+    "word": "erosion",
+    "trans": "n.腐蚀，侵蚀；糜烂"
+  },
+  {
+    "word": "errand",
+    "trans": "n.差使，差事"
+  },
+  {
+    "word": "escort",
+    "trans": "n.&vt.护卫，护送"
+  },
+  {
+    "word": "essence",
+    "trans": "n.本质，本体；精华"
+  },
+  {
+    "word": "essential",
+    "trans": "a.特发的；自发的"
+  },
+  {
+    "word": "establish",
+    "trans": "vt.使…被永久地接受"
+  },
+  {
+    "word": "estate",
+    "trans": "n.房地产；财产，产业"
+  },
+  {
+    "word": "eternal",
+    "trans": "n.永久的；不朽的"
+  },
+  {
+    "word": "evaporate",
+    "trans": "vt.使脱水vi.发散蒸气"
+  },
+  {
+    "word": "even",
+    "trans": "a.同一日期的"
+  },
+  {
+    "word": "evenly",
+    "trans": "ad.一致地，平静地"
+  },
+  {
+    "word": "everlasting",
+    "trans": "a.永久的；持久的"
+  },
+  {
+    "word": "evil",
+    "trans": "n.邪恶，罪恶；祸害"
+  },
+  {
+    "word": "evolution",
+    "trans": "n.开方；(天体的)形成"
+  },
+  {
+    "word": "excel",
+    "trans": "vt.胜过 vi.杰出"
+  },
+  {
+    "word": "except",
+    "trans": "vt.把…除外，除去"
+  },
+  {
+    "word": "exceptional",
+    "trans": "a.例外的；优越的"
+  },
+  {
+    "word": "excess",
+    "trans": "n.过度行为，暴行"
+  },
+  {
+    "word": "excessively",
+    "trans": "ad.过分，极端地"
+  },
+  {
+    "word": "exclamation",
+    "trans": "n.呼喊，惊叫；感叹"
+  },
+  {
+    "word": "exclusive",
+    "trans": "a.除外的；孤傲的"
+  },
+  {
+    "word": "excursion",
+    "trans": "n.离题"
+  },
+  {
+    "word": "excuse",
+    "trans": "vt.与…辩解；使免除"
+  },
+  {
+    "word": "execution",
+    "trans": "n.实行，执行；处死刑"
+  },
+  {
+    "word": "executive",
+    "trans": "n.总经理，董事"
+  },
+  {
+    "word": "exemplify",
+    "trans": "vt.举例证明(解释)"
+  },
+  {
+    "word": "exert",
+    "trans": "vt.发挥(威力)，施加"
+  },
+  {
+    "word": "exile",
+    "trans": "vt.流放 n.被流放者"
+  },
+  {
+    "word": "expect",
+    "trans": "vt.料想，认为"
+  },
+  {
+    "word": "expedition",
+    "trans": "n.探险；探险队"
+  },
+  {
+    "word": "expenditure",
+    "trans": "n.(时间等)支出，消费"
+  },
+  {
+    "word": "expel",
+    "trans": "vt.驱逐，开除；排出"
+  },
+  {
+    "word": "experimentally",
+    "trans": "ad.实验上，实验性地"
+  },
+  {
+    "word": "experimentation",
+    "trans": "n.实验，试验；实验法"
+  },
+  {
+    "word": "expire",
+    "trans": "vi.满期，到期；断气"
+  },
+  {
+    "word": "explicit",
+    "trans": "a.明晰的；直率的"
+  },
+  {
+    "word": "exploration",
+    "trans": "n.考察；勘探；探查"
+  },
+  {
+    "word": "exposition",
+    "trans": "n.说明，解释；陈列"
+  },
+  {
+    "word": "extinct",
+    "trans": "a.绝种的；熄灭了的"
+  },
+  {
+    "word": "extinguish",
+    "trans": "vt.熄灭，扑灭；消灭"
+  },
+  {
+    "word": "extra",
+    "trans": "n.附加物；额外的人手"
+  },
+  {
+    "word": "extract",
+    "trans": "vt.取出；榨取 n.摘录"
+  },
+  {
+    "word": "extraction",
+    "trans": "n.抽出；提取法；摘要"
+  },
+  {
+    "word": "extraordinarily",
+    "trans": "ad.非常地，特别地"
+  },
+  {
+    "word": "extravagant",
+    "trans": "a.奢侈的；过度的"
+  },
+  {
+    "word": "extreme",
+    "trans": "n.极端不同的性质"
+  },
+  {
+    "word": "fabricate",
+    "trans": "vt.制作，组合；捏造"
+  },
+  {
+    "word": "fabrication",
+    "trans": "n.制作，构成；捏造"
+  },
+  {
+    "word": "facilitate",
+    "trans": "vt.使容易；助长"
+  },
+  {
+    "word": "faction",
+    "trans": "n.派别，宗派，小集团"
+  },
+  {
+    "word": "fair",
+    "trans": "a.美丽的"
+  },
+  {
+    "word": "fake",
+    "trans": "n.假货，膺品 a.假的"
+  },
+  {
+    "word": "fall",
+    "trans": "vi.变成，成为；陷于"
+  },
+  {
+    "word": "fantastic",
+    "trans": "a.空想的；奇异的"
+  },
+  {
+    "word": "fascinate",
+    "trans": "vt.迷住 vi.迷人"
+  },
+  {
+    "word": "fastener",
+    "trans": "n.扣件，钮扣，揿钮"
+  },
+  {
+    "word": "faultless",
+    "trans": "a.无过失的；无缺点的"
+  },
+  {
+    "word": "fearless",
+    "trans": "a.无畏的，大胆的"
+  },
+  {
+    "word": "feel",
+    "trans": "vi.摸起来"
+  },
+  {
+    "word": "fell",
+    "trans": "vt.砍倒(树等)；砍伐"
+  },
+  {
+    "word": "fellowship",
+    "trans": "n.伙伴关系；联谊会"
+  },
+  {
+    "word": "feminine",
+    "trans": "a.女性的；女子气的"
+  },
+  {
+    "word": "fence",
+    "trans": "n.击剑(术) vi.击剑"
+  },
+  {
+    "word": "ferrous",
+    "trans": "a.铁的；亚铁的"
+  },
+  {
+    "word": "ferry",
+    "trans": "n.渡船；渡口 vt.运送"
+  },
+  {
+    "word": "fertile",
+    "trans": "a.(创造力)丰富的"
+  },
+  {
+    "word": "fighter",
+    "trans": "n.斗争者；战斗机"
+  },
+  {
+    "word": "filament",
+    "trans": "n.细丝；长丝；灯丝"
+  },
+  {
+    "word": "fill",
+    "trans": "vt.担任(职务)；填补"
+  },
+  {
+    "word": "filter",
+    "trans": "vi.滤过"
+  },
+  {
+    "word": "filth",
+    "trans": "n.污秽，污物；淫猥"
+  },
+  {
+    "word": "finance",
+    "trans": "vt.提供资金"
+  },
+  {
+    "word": "finely",
+    "trans": "ad.精细地，美好地"
+  },
+  {
+    "word": "finite",
+    "trans": "a.有限的；有尽的"
+  },
+  {
+    "word": "fireplace",
+    "trans": "n.壁炉"
+  },
+  {
+    "word": "firework",
+    "trans": "n.爆竹，花炮，烟火"
+  },
+  {
+    "word": "firmness",
+    "trans": "n.坚固，坚定，稳固"
+  },
+  {
+    "word": "first-rate",
+    "trans": "a.第一流的，优秀的"
+  },
+  {
+    "word": "fission",
+    "trans": "n.裂开；分裂生殖"
+  },
+  {
+    "word": "fitness",
+    "trans": "n.适当，恰当；健康"
+  },
+  {
+    "word": "fitting",
+    "trans": "a.适当的 n.配合"
+  },
+  {
+    "word": "fixture",
+    "trans": "n.固定；定期存款"
+  },
+  {
+    "word": "flake",
+    "trans": "n.片，薄片；肌膈"
+  },
+  {
+    "word": "flame",
+    "trans": "vi.发火焰 vt.点燃"
+  },
+  {
+    "word": "flank",
+    "trans": "n.肋，肋腹；侧面"
+  },
+  {
+    "word": "flannel",
+    "trans": "n.法兰绒；法兰绒衣服"
+  },
+  {
+    "word": "flap",
+    "trans": "vt.&n.拍打 vi.拍动"
+  },
+  {
+    "word": "flask",
+    "trans": "n.瓶；火药筒；砂箱"
+  },
+  {
+    "word": "flatten",
+    "trans": "vt.把…弄平；击倒"
+  },
+  {
+    "word": "flatter",
+    "trans": "vt.奉承，阿谀，谄媚"
+  },
+  {
+    "word": "flavour",
+    "trans": "vt.给…调味"
+  },
+  {
+    "word": "flaw",
+    "trans": "n.缺点，瑕疵；裂隙"
+  },
+  {
+    "word": "flee",
+    "trans": "vi.逃走 vt.逃避"
+  },
+  {
+    "word": "flexible",
+    "trans": "a.灵活的，可变通的"
+  },
+  {
+    "word": "flight",
+    "trans": "n.溃退，逃跑；外流"
+  },
+  {
+    "word": "fling",
+    "trans": "vi.&vt.(用力)扔，抛"
+  },
+  {
+    "word": "float",
+    "trans": "n.漂浮物；浮标，木筏"
+  },
+  {
+    "word": "flock",
+    "trans": "vi.群集，聚集"
+  },
+  {
+    "word": "fluctuate",
+    "trans": "vi.波动 vt.使波动"
+  },
+  {
+    "word": "fluctuation",
+    "trans": "n.波动；脉动；踌躇"
+  },
+  {
+    "word": "flush",
+    "trans": "n.兴奋，脸红；发烧"
+  },
+  {
+    "word": "flutter",
+    "trans": "vi.(鸟)振翼；飘动"
+  },
+  {
+    "word": "flux",
+    "trans": "n.流；涨潮；流量"
+  },
+  {
+    "word": "fly",
+    "trans": "v.飞跑，逃跑，消失"
+  },
+  {
+    "word": "foam",
+    "trans": "n.泡沫；泡沫塑料"
+  },
+  {
+    "word": "follow",
+    "trans": "vt.从事(职业)，经营"
+  },
+  {
+    "word": "follower",
+    "trans": "n.契据的附面；从动件"
+  },
+  {
+    "word": "footpath",
+    "trans": "n.小路，人行道"
+  },
+  {
+    "word": "fore",
+    "trans": "ad.在前面 a.先前的"
+  },
+  {
+    "word": "foreign",
+    "trans": "a.无关的"
+  },
+  {
+    "word": "foresee",
+    "trans": "vt.预见，预知，看穿"
+  },
+  {
+    "word": "forge",
+    "trans": "vt.打(铁等)，锻造"
+  },
+  {
+    "word": "formal",
+    "trans": "a.形态的；规范的"
+  },
+  {
+    "word": "formerly",
+    "trans": "ad.以前，从前"
+  },
+  {
+    "word": "formidable",
+    "trans": "a.可怕的；难对付的"
+  },
+  {
+    "word": "formulate",
+    "trans": "vt.用公式表示"
+  },
+  {
+    "word": "formulation",
+    "trans": "n.明确的表达"
+  },
+  {
+    "word": "forsake",
+    "trans": "vt.遗弃，抛弃，摒绝"
+  },
+  {
+    "word": "fort",
+    "trans": "n.要塞，堡垒"
+  },
+  {
+    "word": "forthcoming",
+    "trans": "a.即将到来的；现有的"
+  },
+  {
+    "word": "fortress",
+    "trans": "n.堡垒，要塞"
+  },
+  {
+    "word": "forum",
+    "trans": "n.论坛，讨论会"
+  },
+  {
+    "word": "forward",
+    "trans": "ad.向前，将来vt.转递"
+  },
+  {
+    "word": "fossil",
+    "trans": "n.化石 a.化石的"
+  },
+  {
+    "word": "foster",
+    "trans": "vt.养育，抚养；培养"
+  },
+  {
+    "word": "foul",
+    "trans": "a.肮脏的；丑恶的"
+  },
+  {
+    "word": "fowl",
+    "trans": "n.家禽；禽肉"
+  },
+  {
+    "word": "fraction",
+    "trans": "n.分数；分馏的部分"
+  },
+  {
+    "word": "fracture",
+    "trans": "n.破裂；裂痕 vi.破裂"
+  },
+  {
+    "word": "fragile",
+    "trans": "a.脆的；体质弱的"
+  },
+  {
+    "word": "fragrant",
+    "trans": "a.香的，芬芳的"
+  },
+  {
+    "word": "frail",
+    "trans": "a.脆弱的；意志薄弱的"
+  },
+  {
+    "word": "framework",
+    "trans": "n.机构，组织，体制"
+  },
+  {
+    "word": "freight",
+    "trans": "n.运费；货运；负担"
+  },
+  {
+    "word": "frequency",
+    "trans": "n.频繁，屡次；频率"
+  },
+  {
+    "word": "frequent",
+    "trans": "a.常见的；频繁的"
+  },
+  {
+    "word": "freshen",
+    "trans": "vt.使显得新鲜"
+  },
+  {
+    "word": "fret",
+    "trans": "vt.&vi.(使)烦恼"
+  },
+  {
+    "word": "friction",
+    "trans": "n.擦热皮肤"
+  },
+  {
+    "word": "fright",
+    "trans": "n.惊吓，恐怖"
+  },
+  {
+    "word": "frightful",
+    "trans": "a.可怕的；讨厌的"
+  },
+  {
+    "word": "fringe",
+    "trans": "n.穗，毛边；边缘"
+  },
+  {
+    "word": "fro",
+    "trans": "ad.往，去，回，向后"
+  },
+  {
+    "word": "frock",
+    "trans": "n.(女)上衣，罩衫"
+  },
+  {
+    "word": "frustrate",
+    "trans": "vt.挫败；使无效"
+  },
+  {
+    "word": "furious",
+    "trans": "a.狂暴的；强烈的"
+  },
+  {
+    "word": "further",
+    "trans": "vt.增进"
+  },
+  {
+    "word": "fury",
+    "trans": "n.狂怒，暴怒；猛烈"
+  },
+  {
+    "word": "fuse",
+    "trans": "n.保险丝，导火线"
+  },
+  {
+    "word": "fuss",
+    "trans": "n.忙乱；吹捧 vi.忙乱"
+  },
+  {
+    "word": "gamble",
+    "trans": "n.赌博 vt.冒…的险"
+  },
+  {
+    "word": "gangster",
+    "trans": "n.匪徒，歹徒，暴徒"
+  },
+  {
+    "word": "gap",
+    "trans": "n.山口，山峡；差距"
+  },
+  {
+    "word": "garage",
+    "trans": "n.汽车修理站；飞机库"
+  },
+  {
+    "word": "garlic",
+    "trans": "n.蒜，大蒜"
+  },
+  {
+    "word": "garment",
+    "trans": "n.衣服；服装，衣着"
+  },
+  {
+    "word": "gather",
+    "trans": "vt.推测，推断"
+  },
+  {
+    "word": "gathering",
+    "trans": "n.集会，聚会，聚集"
+  },
+  {
+    "word": "gear",
+    "trans": "n.齿轮，传动装置"
+  },
+  {
+    "word": "generalization",
+    "trans": "n.一般化；概括，综合"
+  },
+  {
+    "word": "generalize",
+    "trans": "vt.概括出vi.形成概念"
+  },
+  {
+    "word": "generate",
+    "trans": "vt.发生，产生；生成"
+  },
+  {
+    "word": "generosity",
+    "trans": "n.慷慨，宽宏大量"
+  },
+  {
+    "word": "geographical",
+    "trans": "a.地理的；地区(性)的"
+  },
+  {
+    "word": "geology",
+    "trans": "n.地质学；(某地)地质"
+  },
+  {
+    "word": "geometrical",
+    "trans": "a.几何学的"
+  },
+  {
+    "word": "germ",
+    "trans": "n.细菌，病原菌；幼芽"
+  },
+  {
+    "word": "gesture",
+    "trans": "vi.(讲话时等)做手势"
+  },
+  {
+    "word": "gigantic",
+    "trans": "a.巨大的；巨人似的"
+  },
+  {
+    "word": "ginger",
+    "trans": "n.姜，生姜"
+  },
+  {
+    "word": "gleam",
+    "trans": "n.微光 vi.发微光"
+  },
+  {
+    "word": "glider",
+    "trans": "n.滑翔机；滑翔导弹"
+  },
+  {
+    "word": "global",
+    "trans": "a.球面的；全球的"
+  },
+  {
+    "word": "glorify",
+    "trans": "vt.赞美(上帝)；颂扬"
+  },
+  {
+    "word": "glossary",
+    "trans": "n.词汇表；术语汇编"
+  },
+  {
+    "word": "glue",
+    "trans": "vt.粘牢"
+  },
+  {
+    "word": "gnaw",
+    "trans": "vt.啃，咬断 vi.啮"
+  },
+  {
+    "word": "goddess",
+    "trans": "n.女神；绝世美女"
+  },
+  {
+    "word": "goodness",
+    "trans": "n.善良，善行，美德"
+  },
+  {
+    "word": "gorilla",
+    "trans": "n.大猩猩；暴徒，打手"
+  },
+  {
+    "word": "gorgeous",
+    "trans": "a.绚丽的；极好的"
+  },
+  {
+    "word": "gossip",
+    "trans": "n.闲谈；碎嘴子；漫笔"
+  },
+  {
+    "word": "govern",
+    "trans": "vt.决定，支配；控制"
+  },
+  {
+    "word": "grab",
+    "trans": "vt.&vi.攫取，抓取"
+  },
+  {
+    "word": "gracious",
+    "trans": "a.谦和的"
+  },
+  {
+    "word": "gradient",
+    "trans": "n.斜坡 a.倾斜的"
+  },
+  {
+    "word": "gramophone",
+    "trans": "n.留声机"
+  },
+  {
+    "word": "granite",
+    "trans": "a.花岗岩，花岗石"
+  },
+  {
+    "word": "grant",
+    "trans": "n.授予物，拨款"
+  },
+  {
+    "word": "graphite",
+    "trans": "n.石墨，石墨电极"
+  },
+  {
+    "word": "grasshopper",
+    "trans": "n.蚱蜢，蝗虫，蚂蚱"
+  },
+  {
+    "word": "grassy",
+    "trans": "a.草多的；草似的"
+  },
+  {
+    "word": "grateful",
+    "trans": "a.可喜的，令人愉快的"
+  },
+  {
+    "word": "gravel",
+    "trans": "n.砂跞；砂砾层；结石"
+  },
+  {
+    "word": "graze",
+    "trans": "vi.喂草；放牧(牲畜)"
+  },
+  {
+    "word": "grease",
+    "trans": "n.动物脂，脂肪"
+  },
+  {
+    "word": "greed",
+    "trans": "n.贪心，贪婪"
+  },
+  {
+    "word": "grief",
+    "trans": "n.悲哀，悲痛，悲伤"
+  },
+  {
+    "word": "grim",
+    "trans": "a.冷酷无情的，严厉的"
+  },
+  {
+    "word": "grin",
+    "trans": "vi.咧着嘴笑"
+  },
+  {
+    "word": "grind",
+    "trans": "vt.折磨，压榨"
+  },
+  {
+    "word": "groove",
+    "trans": "n.槽 vt.开槽于"
+  },
+  {
+    "word": "grope",
+    "trans": "vi.(暗中)摸索，探索"
+  },
+  {
+    "word": "gross",
+    "trans": "a.(语言、举止)粗俗的"
+  },
+  {
+    "word": "grove",
+    "trans": "n.林子，小树林，园林"
+  },
+  {
+    "word": "growl",
+    "trans": "vi.(狗等)嗥叫；咆哮"
+  },
+  {
+    "word": "grumble",
+    "trans": "vi.抱怨，发牢骚"
+  },
+  {
+    "word": "grunt",
+    "trans": "vi.作呼噜声；咕哝"
+  },
+  {
+    "word": "guilt",
+    "trans": "n.有罪，犯罪；内疚"
+  },
+  {
+    "word": "guitar",
+    "trans": "n.吉他，六弦琴"
+  },
+  {
+    "word": "gust",
+    "trans": "n.阵风，一阵狂风"
+  },
+  {
+    "word": "gutter",
+    "trans": "n.沟，边沟；檐槽"
+  },
+  {
+    "word": "hail",
+    "trans": "vt.向…欢呼 vi.招呼"
+  },
+  {
+    "word": "halve",
+    "trans": "vt.对分；平摊"
+  },
+  {
+    "word": "ham",
+    "trans": "n.火腿；(兽类的)后踝"
+  },
+  {
+    "word": "hamper",
+    "trans": "vt.妨碍，阻碍，牵制"
+  },
+  {
+    "word": "handbook",
+    "trans": "n.手册，便览，指南"
+  },
+  {
+    "word": "handicap",
+    "trans": "vt.妨碍，使不利"
+  },
+  {
+    "word": "handout",
+    "trans": "n.施舍物，救济品"
+  },
+  {
+    "word": "handy",
+    "trans": "a.方便的；便于使用的"
+  },
+  {
+    "word": "harbour",
+    "trans": "vt.隐匿，窝藏；怀着"
+  },
+  {
+    "word": "hard",
+    "trans": "a.(酒)烈性的"
+  },
+  {
+    "word": "hardy",
+    "trans": "a.强壮的，耐劳的"
+  },
+  {
+    "word": "harmonious",
+    "trans": "a.和谐的，协调的"
+  },
+  {
+    "word": "harp",
+    "trans": "n.竖琴；天琴座"
+  },
+  {
+    "word": "harsh",
+    "trans": "a.粗糙的；严厉的"
+  },
+  {
+    "word": "hatch",
+    "trans": "vt.舱盖，舱口；短门"
+  },
+  {
+    "word": "haughty",
+    "trans": "a.傲慢的，轻蔑的"
+  },
+  {
+    "word": "haul",
+    "trans": "vt.拖曳；拖运"
+  },
+  {
+    "word": "haunt",
+    "trans": "vt.常去 vi.经常出没"
+  },
+  {
+    "word": "hazard",
+    "trans": "vt.使遭危险 n.危险"
+  },
+  {
+    "word": "head",
+    "trans": "vt.用头顶(球)vi.出发"
+  },
+  {
+    "word": "heading",
+    "trans": "n.标题，题词，题名"
+  },
+  {
+    "word": "headlong",
+    "trans": "a.&ad.头向前的(地)"
+  },
+  {
+    "word": "headquarters",
+    "trans": "n.总局，总店"
+  },
+  {
+    "word": "hearth",
+    "trans": "n.壁炉地面；炉边"
+  },
+  {
+    "word": "heater",
+    "trans": "n.加热的人，加热器"
+  },
+  {
+    "word": "hearty",
+    "trans": "a.衷心的；丰盛的"
+  },
+  {
+    "word": "heave",
+    "trans": "vt.(用力地)举起；抛"
+  },
+  {
+    "word": "Heaven",
+    "trans": "n.上帝，神"
+  },
+  {
+    "word": "heighten",
+    "trans": "vt.加高，提高；增加"
+  },
+  {
+    "word": "hemisphere",
+    "trans": "n.半球；半球地图"
+  },
+  {
+    "word": "henceforth",
+    "trans": "ad.今后，从今以后"
+  },
+  {
+    "word": "herald",
+    "trans": "ad.传令官；通报者"
+  },
+  {
+    "word": "herb",
+    "trans": "n.草本植物；香草"
+  },
+  {
+    "word": "herd",
+    "trans": "vt.放牧 vi.成群"
+  },
+  {
+    "word": "hesitate",
+    "trans": "vi.含糊，支吾；口吃"
+  },
+  {
+    "word": "hide",
+    "trans": "n.生皮，兽皮，皮革"
+  },
+  {
+    "word": "hike",
+    "trans": "vi.作长途徒步旅行"
+  },
+  {
+    "word": "hindrance",
+    "trans": "n.障碍，妨碍"
+  },
+  {
+    "word": "hinge",
+    "trans": "n.合页，折叶，铰链"
+  },
+  {
+    "word": "hip",
+    "trans": "n.臀部，髋；屋脊"
+  },
+  {
+    "word": "hiss",
+    "trans": "n.嘶嘶声 vi.嘶嘶作声"
+  },
+  {
+    "word": "historian",
+    "trans": "n.历史学家；编史家"
+  },
+  {
+    "word": "historic",
+    "trans": "a.历史的；历史性的"
+  },
+  {
+    "word": "hit",
+    "trans": "n.轰动一时的人(或事)"
+  },
+  {
+    "word": "hitherto",
+    "trans": "ad.迄今，到目前为止"
+  },
+  {
+    "word": "hoarse",
+    "trans": "a.(声音)嘶哑的"
+  },
+  {
+    "word": "hoe",
+    "trans": "vt.&vi.锄地"
+  },
+  {
+    "word": "hoist",
+    "trans": "vt.升起 vi.扯起来"
+  },
+  {
+    "word": "hollow",
+    "trans": "vt.凿空 vi.变空"
+  },
+  {
+    "word": "homely",
+    "trans": "a.家庭的；家常的"
+  },
+  {
+    "word": "homogeneous",
+    "trans": "a.同类的；均匀的"
+  },
+  {
+    "word": "hook",
+    "trans": "vt.用钩连接，用钩挂"
+  },
+  {
+    "word": "hop",
+    "trans": "vi.跳舞；(人)单足跳"
+  },
+  {
+    "word": "horizon",
+    "trans": "n.层位"
+  },
+  {
+    "word": "horn",
+    "trans": "n.角状物，角制品"
+  },
+  {
+    "word": "hose",
+    "trans": "n.长筒袜；软管"
+  },
+  {
+    "word": "hospitality",
+    "trans": "n.好客，殷勤；宜人"
+  },
+  {
+    "word": "hostage",
+    "trans": "n.人质，抵押品"
+  },
+  {
+    "word": "hostess",
+    "trans": "n.女主人；旅馆女老板"
+  },
+  {
+    "word": "hostile",
+    "trans": "a.敌对的；不友好的"
+  },
+  {
+    "word": "hound",
+    "trans": "n.狗；角鲨；卑鄙的人"
+  },
+  {
+    "word": "house",
+    "trans": "n.议院，会议厅"
+  },
+  {
+    "word": "hover",
+    "trans": "vi.徘徊；傍徨；翱翔"
+  },
+  {
+    "word": "howl",
+    "trans": "n.嚎叫；哀号 vi.吠"
+  },
+  {
+    "word": "hug",
+    "trans": "vt.搂 n.紧紧拥抱"
+  },
+  {
+    "word": "hull",
+    "trans": "n.外壳，豆荚；薄膜"
+  },
+  {
+    "word": "hum",
+    "trans": "n.嗡嗡声 vt.哼曲子"
+  },
+  {
+    "word": "humanitarian",
+    "trans": "a.博爱的 n.慈善家"
+  },
+  {
+    "word": "humanity",
+    "trans": "n.人类；人性，人情"
+  },
+  {
+    "word": "humidity",
+    "trans": "n.湿气；湿度"
+  },
+  {
+    "word": "hurl",
+    "trans": "vt.猛投 vi.猛冲"
+  },
+  {
+    "word": "hurrah",
+    "trans": "int.好哇，万岁，乌拉"
+  },
+  {
+    "word": "hurricane",
+    "trans": "n.飓风，十二级风"
+  },
+  {
+    "word": "hurt",
+    "trans": "n.损伤，伤害，创伤"
+  },
+  {
+    "word": "hush",
+    "trans": "n.沉默 int.嘘！"
+  },
+  {
+    "word": "hydraulic",
+    "trans": "a.水力的；水力学的"
+  },
+  {
+    "word": "hydrocarbon",
+    "trans": "n.烃，碳氢化合物"
+  },
+  {
+    "word": "hymn",
+    "trans": "n.赞美诗，圣歌；赞歌"
+  },
+  {
+    "word": "hypothesis",
+    "trans": "n.假设；前提"
+  },
+  {
+    "word": "ice",
+    "trans": "vt.使成冰 vi.结冰"
+  },
+  {
+    "word": "icy",
+    "trans": "a.冰冷的；冷冰冰的"
+  },
+  {
+    "word": "idealism",
+    "trans": "n.唯心主义；理想主义"
+  },
+  {
+    "word": "ideally",
+    "trans": "ad.理想地；理论上"
+  },
+  {
+    "word": "identical",
+    "trans": "a.同一的；恒等的"
+  },
+  {
+    "word": "identification",
+    "trans": "n.认出，鉴定；身份证"
+  },
+  {
+    "word": "idiot",
+    "trans": "n.白痴；傻子"
+  },
+  {
+    "word": "idleness",
+    "trans": "n.懒惰；赋闲无事"
+  },
+  {
+    "word": "ignite",
+    "trans": "vt.引燃 vi.着火"
+  },
+  {
+    "word": "ignorance",
+    "trans": "n.无知，无学，愚昧"
+  },
+  {
+    "word": "illiterate",
+    "trans": "a.文盲的 n.文盲"
+  },
+  {
+    "word": "illuminate",
+    "trans": "vt.照明，照亮；阐明"
+  },
+  {
+    "word": "illusion",
+    "trans": "n.幻想；错觉；假象"
+  },
+  {
+    "word": "imitation",
+    "trans": "n.仿制品，伪制物"
+  },
+  {
+    "word": "immerse",
+    "trans": "vt.沉浸；给…施洗礼"
+  },
+  {
+    "word": "immigrate",
+    "trans": "vt.(使)移居入境"
+  },
+  {
+    "word": "immortal",
+    "trans": "a.不朽的；永生的"
+  },
+  {
+    "word": "impart",
+    "trans": "vt.给予，传递；告诉"
+  },
+  {
+    "word": "impartial",
+    "trans": "a.公正的，无偏见的"
+  },
+  {
+    "word": "implement",
+    "trans": "n.工具，服装 vt.贯彻"
+  },
+  {
+    "word": "implore",
+    "trans": "vt.乞求，恳求，哀求"
+  },
+  {
+    "word": "impose",
+    "trans": "vi.利用；欺骗"
+  },
+  {
+    "word": "impress",
+    "trans": "vt.盖印，在…打记号"
+  },
+  {
+    "word": "improper",
+    "trans": "a.不适当的；不合理的"
+  },
+  {
+    "word": "impulse",
+    "trans": "n.推动，冲力；冲动"
+  },
+  {
+    "word": "impurity",
+    "trans": "n.不纯；杂质；不道德"
+  },
+  {
+    "word": "inaccessible",
+    "trans": "a.达不到的，难接近的"
+  },
+  {
+    "word": "inaccurate",
+    "trans": "a.不精密的，不准确的"
+  },
+  {
+    "word": "inadequate",
+    "trans": "a.不充足的，不适当的"
+  },
+  {
+    "word": "inasmuch",
+    "trans": "ad.因为，由于"
+  },
+  {
+    "word": "inaugurate",
+    "trans": "vt.开始；使就职"
+  },
+  {
+    "word": "incapable",
+    "trans": "a.无能力的；无资格的"
+  },
+  {
+    "word": "incense",
+    "trans": "n.香，熏香；香气"
+  },
+  {
+    "word": "incidence",
+    "trans": "n.发生，影响；入射"
+  },
+  {
+    "word": "incidentally",
+    "trans": "ad.附带地；顺便提及"
+  },
+  {
+    "word": "inclination",
+    "trans": "n.倾斜，点头；斜坡"
+  },
+  {
+    "word": "incline",
+    "trans": "n.坡度"
+  },
+  {
+    "word": "inclusive",
+    "trans": "a.包围住的；包括的"
+  },
+  {
+    "word": "incompatible",
+    "trans": "a.不相容的"
+  },
+  {
+    "word": "incomplete",
+    "trans": "a.不完全的，未完成的"
+  },
+  {
+    "word": "incorporate",
+    "trans": "vt.结合，合并，收编"
+  },
+  {
+    "word": "incredible",
+    "trans": "a.难以置信的，惊人的"
+  },
+  {
+    "word": "indefinite",
+    "trans": "a.无限期的"
+  },
+  {
+    "word": "indicative",
+    "trans": "a.指示的；陈述的"
+  },
+  {
+    "word": "indignation",
+    "trans": "n.愤怒，愤慨，义愤"
+  },
+  {
+    "word": "indispensable",
+    "trans": "a.必不可少的，必需的"
+  },
+  {
+    "word": "individual",
+    "trans": "a.特殊的"
+  },
+  {
+    "word": "indoor",
+    "trans": "a.室内的；室内进行的"
+  },
+  {
+    "word": "induce",
+    "trans": "vt.劝诱；引起；感应"
+  },
+  {
+    "word": "induction",
+    "trans": "n.就职；归纳推理"
+  },
+  {
+    "word": "indulge",
+    "trans": "vt.放纵(感情)vi.纵情"
+  },
+  {
+    "word": "industrious",
+    "trans": "a.勤劳的，勤奋的"
+  },
+  {
+    "word": "inertia",
+    "trans": "n.惯性，惯量；无力"
+  },
+  {
+    "word": "inevitably",
+    "trans": "ad.不可避免地"
+  },
+  {
+    "word": "infect",
+    "trans": "vt.使受影响"
+  },
+  {
+    "word": "infectious",
+    "trans": "a.传染的；感染性的"
+  },
+  {
+    "word": "infer",
+    "trans": "vt.&vi.猜想，臆测"
+  },
+  {
+    "word": "inference",
+    "trans": "n.推论；推断的结果"
+  },
+  {
+    "word": "inferior",
+    "trans": "n.下级；晚辈，次品"
+  },
+  {
+    "word": "infinite",
+    "trans": "n.无限；无穷(大)"
+  },
+  {
+    "word": "infinitely",
+    "trans": "ad.无限地，无边地"
+  },
+  {
+    "word": "infinity",
+    "trans": "n.大量，大宗；无穷大"
+  },
+  {
+    "word": "inflation",
+    "trans": "n.通货膨胀，物价飞涨"
+  },
+  {
+    "word": "influence",
+    "trans": "n.势力，权势"
+  },
+  {
+    "word": "ingenious",
+    "trans": "a.机灵的；精巧制成的"
+  },
+  {
+    "word": "ingenuity",
+    "trans": "n.机灵；设计新颖"
+  },
+  {
+    "word": "ingredient",
+    "trans": "n.配料，成分"
+  },
+  {
+    "word": "inherent",
+    "trans": "a.固有的，生来的"
+  },
+  {
+    "word": "initial",
+    "trans": "a.词首的"
+  },
+  {
+    "word": "initially",
+    "trans": "ad.最初，开始"
+  },
+  {
+    "word": "initiate",
+    "trans": "vt.开始，创始；启蒙"
+  },
+  {
+    "word": "initiative",
+    "trans": "a.创始的 n.第一步"
+  },
+  {
+    "word": "inject",
+    "trans": "vt.注射；注满；喷射"
+  },
+  {
+    "word": "inland",
+    "trans": "a.国内的；内地的"
+  },
+  {
+    "word": "inlet",
+    "trans": "n.进口，水湾 vt.引进"
+  },
+  {
+    "word": "innovation",
+    "trans": "n.创新，改革，新设施"
+  },
+  {
+    "word": "innumerable",
+    "trans": "a.无数的，数不清的"
+  },
+  {
+    "word": "inorganic",
+    "trans": "a.无生物的；无机的"
+  },
+  {
+    "word": "input",
+    "trans": "vt.输入 n.输入"
+  },
+  {
+    "word": "insert",
+    "trans": "vi.(肌肉)附着"
+  },
+  {
+    "word": "insight",
+    "trans": "n.洞察力，洞悉，见识"
+  },
+  {
+    "word": "insignificant",
+    "trans": "a.无意义的；低微的"
+  },
+  {
+    "word": "insistent",
+    "trans": "a.坚持的；逼人注意的"
+  },
+  {
+    "word": "inspector",
+    "trans": "n.检查员；巡官"
+  },
+  {
+    "word": "inspiration",
+    "trans": "n.灵感；妙想；鼓舞"
+  },
+  {
+    "word": "instability",
+    "trans": "n.不稳定性；不坚决"
+  },
+  {
+    "word": "installment",
+    "trans": "n.分期付款"
+  },
+  {
+    "word": "instantaneous",
+    "trans": "a.瞬间的，即刻的"
+  },
+  {
+    "word": "instructor",
+    "trans": "n.指导者，教员"
+  },
+  {
+    "word": "instrumental",
+    "trans": "a.仪器的；有帮助的"
+  },
+  {
+    "word": "insulate",
+    "trans": "vt.使绝缘，使绝热"
+  },
+  {
+    "word": "insulator",
+    "trans": "n.隔离者；绝缘体"
+  },
+  {
+    "word": "intake",
+    "trans": "n.吸入；输入能量"
+  },
+  {
+    "word": "integral",
+    "trans": "a.组成的；整的"
+  },
+  {
+    "word": "integrate",
+    "trans": "vt.使结合，使并入"
+  },
+  {
+    "word": "integrity",
+    "trans": "n.诚实，正直"
+  },
+  {
+    "word": "intellect",
+    "trans": "n.理智，智力，才智"
+  },
+  {
+    "word": "intent",
+    "trans": "a.目不转睛的，热切的"
+  },
+  {
+    "word": "interact",
+    "trans": "vi.相互作用"
+  },
+  {
+    "word": "interconnect",
+    "trans": "vt.使互相联系"
+  },
+  {
+    "word": "intercourse",
+    "trans": "n.交际，往来，交流"
+  },
+  {
+    "word": "interface",
+    "trans": "n.分界面"
+  },
+  {
+    "word": "interior",
+    "trans": "n.内部 a.内部的"
+  },
+  {
+    "word": "intermediate",
+    "trans": "n.中间体；调解人"
+  },
+  {
+    "word": "interpret",
+    "trans": "vt.解释 vi.口译"
+  },
+  {
+    "word": "intervene",
+    "trans": "vi.干涉，干预；播进"
+  },
+  {
+    "word": "interview",
+    "trans": "vt.接见，会见，会谈"
+  },
+  {
+    "word": "intonation",
+    "trans": "n.语调，声调；发声"
+  },
+  {
+    "word": "introduce",
+    "trans": "vt.提出(议案等)"
+  },
+  {
+    "word": "invalid",
+    "trans": "n.病人 a.有病的"
+  },
+  {
+    "word": "invariably",
+    "trans": "ad.不变地，永恒地"
+  },
+  {
+    "word": "inversely",
+    "trans": "ad.相反地"
+  },
+  {
+    "word": "invoice",
+    "trans": "n.发票，发货清单"
+  },
+  {
+    "word": "ion",
+    "trans": "n.离子"
+  },
+  {
+    "word": "irregularity",
+    "trans": "n.不规则；不整齐"
+  },
+  {
+    "word": "irrespective",
+    "trans": "a.不考虑的，不顾的"
+  },
+  {
+    "word": "irrigation",
+    "trans": "n.灌溉；冲洗法"
+  },
+  {
+    "word": "irritate",
+    "trans": "vt.激怒；引起不愉快"
+  },
+  {
+    "word": "Islam",
+    "trans": "n.伊斯兰教，回教"
+  },
+  {
+    "word": "ivory",
+    "trans": "n.象牙；牙质；乳白色"
+  },
+  {
+    "word": "jack",
+    "trans": "n.起重器；传动装置"
+  },
+  {
+    "word": "jam",
+    "trans": "n.堵塞 vt.使…堵塞"
+  },
+  {
+    "word": "jealousy",
+    "trans": "n.妒忌，嫉妒，猜忌"
+  },
+  {
+    "word": "jean",
+    "trans": "n.斜纹布，牛仔裤"
+  },
+  {
+    "word": "jelly",
+    "trans": "n.冻，果子冻；胶状物"
+  },
+  {
+    "word": "jerk",
+    "trans": "vt.猛地一拉 vi.急拉"
+  },
+  {
+    "word": "Jesus",
+    "trans": "n.耶稣"
+  },
+  {
+    "word": "jewellery",
+    "trans": "n.珠宝，珠宝饰物"
+  },
+  {
+    "word": "jingle",
+    "trans": "vt.&vi.(使)丁当响"
+  },
+  {
+    "word": "jog",
+    "trans": "vt.使(马等)缓步行进"
+  },
+  {
+    "word": "jug",
+    "trans": "n.带柄水罐，大壶"
+  },
+  {
+    "word": "junction",
+    "trans": "n.连接；接头；中继线"
+  },
+  {
+    "word": "jungle",
+    "trans": "n.丛林，密林，莽丛"
+  },
+  {
+    "word": "junior",
+    "trans": "n.年少者；晚辈"
+  },
+  {
+    "word": "Jupiter",
+    "trans": "n.丘庇特；木星"
+  },
+  {
+    "word": "kernel",
+    "trans": "n.(果实的)核；谷粒"
+  },
+  {
+    "word": "kidnap",
+    "trans": "vt.诱拐，绑架"
+  },
+  {
+    "word": "kidney",
+    "trans": "n.肾，腰子；性格"
+  },
+  {
+    "word": "kilowatt",
+    "trans": "n.千瓦(特)"
+  },
+  {
+    "word": "kindle",
+    "trans": "vt.点燃 vi.着火"
+  },
+  {
+    "word": "kinetic",
+    "trans": "a.动力(学)的；活动的"
+  },
+  {
+    "word": "kit",
+    "trans": "n.成套工具；用具包"
+  },
+  {
+    "word": "knight",
+    "trans": "n.骑士，武士；爵士"
+  },
+  {
+    "word": "lace",
+    "trans": "vi.系带，用带子束紧"
+  },
+  {
+    "word": "landscape",
+    "trans": "n.风景，景色，景致"
+  },
+  {
+    "word": "largely",
+    "trans": "ad.大规模地"
+  },
+  {
+    "word": "late",
+    "trans": "a.去世不久的"
+  },
+  {
+    "word": "latent",
+    "trans": "a.存在但看不见的"
+  },
+  {
+    "word": "lathe",
+    "trans": "n.车床 vt.用车床加工"
+  },
+  {
+    "word": "latitude",
+    "trans": "n.纬度；黄纬"
+  },
+  {
+    "word": "lattice",
+    "trans": "n.格子；点阵，网络"
+  },
+  {
+    "word": "laundry",
+    "trans": "n.送洗衣店去洗的东西"
+  },
+  {
+    "word": "leaflet",
+    "trans": "n.传单，活页；广告"
+  },
+  {
+    "word": "leakage",
+    "trans": "n.漏，泄漏；漏出物"
+  },
+  {
+    "word": "lease",
+    "trans": "n.租约，契约，租契"
+  },
+  {
+    "word": "legislation",
+    "trans": "n.立法；法规"
+  },
+  {
+    "word": "length",
+    "trans": "n.程度，范围"
+  },
+  {
+    "word": "lengthen",
+    "trans": "vt.使延长 vi.变长"
+  },
+  {
+    "word": "leopard",
+    "trans": "n.豹"
+  },
+  {
+    "word": "lessen",
+    "trans": "vt.减少 vi.变少"
+  },
+  {
+    "word": "lever",
+    "trans": "n.途径，工具，手段"
+  },
+  {
+    "word": "liability",
+    "trans": "n.责任；倾向；债务"
+  },
+  {
+    "word": "liable",
+    "trans": "a.有(法律)责任的"
+  },
+  {
+    "word": "lighter",
+    "trans": "n.打火机，引燃器"
+  },
+  {
+    "word": "likelihood",
+    "trans": "n.可能(性)"
+  },
+  {
+    "word": "likeness",
+    "trans": "n.同样；类似，相似"
+  },
+  {
+    "word": "lily",
+    "trans": "n.百合，百合花，睡莲"
+  },
+  {
+    "word": "limb",
+    "trans": "n.分支，突出物"
+  },
+  {
+    "word": "limestone",
+    "trans": "n.石灰石"
+  },
+  {
+    "word": "limp",
+    "trans": "vi.蹒跚，跛行 n.跛行"
+  },
+  {
+    "word": "line",
+    "trans": "vt.加衬里于"
+  },
+  {
+    "word": "linear",
+    "trans": "a.线的；长度的"
+  },
+  {
+    "word": "liner",
+    "trans": "n.班船，定期班机"
+  },
+  {
+    "word": "linger",
+    "trans": "vi.逗留，徘徊；拖延"
+  },
+  {
+    "word": "lining",
+    "trans": "n.(衣服里的)衬里"
+  },
+  {
+    "word": "lipstick",
+    "trans": "n.唇膏，口红"
+  },
+  {
+    "word": "literal",
+    "trans": "a.文字(上)的；字面的"
+  },
+  {
+    "word": "literally",
+    "trans": "ad.照字义，逐字地"
+  },
+  {
+    "word": "literary",
+    "trans": "a.精通文学的"
+  },
+  {
+    "word": "litter",
+    "trans": "n.废物，杂乱 vi.乱扔"
+  },
+  {
+    "word": "lobby",
+    "trans": "n.前厅，(剧院的)门廊"
+  },
+  {
+    "word": "locality",
+    "trans": "n.位置，地点，发生地"
+  },
+  {
+    "word": "location",
+    "trans": "n.定位，测位；测量"
+  },
+  {
+    "word": "locomotive",
+    "trans": "a.运动的；机动"
+  },
+  {
+    "word": "locust",
+    "trans": "n.蝗虫；洋槐，刺槐"
+  },
+  {
+    "word": "lodging",
+    "trans": "n.寄宿，住宿；住所"
+  },
+  {
+    "word": "lofty",
+    "trans": "a.高耸的；高尚的"
+  },
+  {
+    "word": "log",
+    "trans": "n.航海日志；飞行日志"
+  },
+  {
+    "word": "longing",
+    "trans": "n.渴望 a.显示渴望的"
+  },
+  {
+    "word": "longitude",
+    "trans": "n.经线，经度"
+  },
+  {
+    "word": "loosely",
+    "trans": "ad.松松地，松散地"
+  },
+  {
+    "word": "loosen",
+    "trans": "vi.变松"
+  },
+  {
+    "word": "lounge",
+    "trans": "n.(旅馆等的)休息室"
+  },
+  {
+    "word": "lubricate",
+    "trans": "vt.使润滑vi.加润滑油"
+  },
+  {
+    "word": "luminous",
+    "trans": "a.发光的；光明的"
+  },
+  {
+    "word": "lump",
+    "trans": "vt.(使)成团 vi.结块"
+  },
+  {
+    "word": "lunar",
+    "trans": "a.月亮的"
+  },
+  {
+    "word": "luncheon",
+    "trans": "n.午宴，午餐，便宴"
+  },
+  {
+    "word": "luxurious",
+    "trans": "a.爱好奢侈的，豪华的"
+  },
+  {
+    "word": "magician",
+    "trans": "n.魔法师；变戏法的人"
+  },
+  {
+    "word": "magistrate",
+    "trans": "n.地方行政长官"
+  },
+  {
+    "word": "magnet",
+    "trans": "n.有吸引力的人(或物)"
+  },
+  {
+    "word": "magnetism",
+    "trans": "n.磁；魅力；催眠术"
+  },
+  {
+    "word": "magnify",
+    "trans": "vt.放大，扩大"
+  },
+  {
+    "word": "magnitude",
+    "trans": "n.大小；重大；星等"
+  },
+  {
+    "word": "maid",
+    "trans": "n.少女；处女"
+  },
+  {
+    "word": "maiden",
+    "trans": "n.少女，未婚女子"
+  },
+  {
+    "word": "main",
+    "trans": "n.总管道，干线"
+  },
+  {
+    "word": "maintenance",
+    "trans": "n.扶养；坚持"
+  },
+  {
+    "word": "majesty",
+    "trans": "n.威严，尊严；陛下"
+  },
+  {
+    "word": "makeup",
+    "trans": "n.组织；性格；化装品"
+  },
+  {
+    "word": "malice",
+    "trans": "n.恶意；蓄意犯罪"
+  },
+  {
+    "word": "mammal",
+    "trans": "n.哺乳动物"
+  },
+  {
+    "word": "manifest",
+    "trans": "vt.表明 a.明白的"
+  },
+  {
+    "word": "manipulate",
+    "trans": "vt.操作；控制，手持"
+  },
+  {
+    "word": "mansion",
+    "trans": "n.大厦，大楼；宅第"
+  },
+  {
+    "word": "manuscript",
+    "trans": "n.手稿，底稿，原稿"
+  },
+  {
+    "word": "maple",
+    "trans": "n.槭树，枫树"
+  },
+  {
+    "word": "margin",
+    "trans": "n.余地；幅度；赚头"
+  },
+  {
+    "word": "marginal",
+    "trans": "a.记在页边的；边缘的"
+  },
+  {
+    "word": "market",
+    "trans": "vt.(在市场上)销售"
+  },
+  {
+    "word": "Mars",
+    "trans": "n.火星；战争"
+  },
+  {
+    "word": "marsh",
+    "trans": "n.沼泽地，湿地"
+  },
+  {
+    "word": "marshal",
+    "trans": "n.元帅；陆军元帅"
+  },
+  {
+    "word": "martyr",
+    "trans": "n.烈士，殉难者"
+  },
+  {
+    "word": "marvel",
+    "trans": "n.奇迹；惊奇 vt.惊奇"
+  },
+  {
+    "word": "masculine",
+    "trans": "a.男性的；强壮的"
+  },
+  {
+    "word": "massacre",
+    "trans": "n.大屠杀，残杀"
+  },
+  {
+    "word": "massive",
+    "trans": "a.粗大的；大而重的"
+  },
+  {
+    "word": "mast",
+    "trans": "n.桅杆；杆 vt.扯帆"
+  },
+  {
+    "word": "mature",
+    "trans": "vt.使成熟 vi.成熟"
+  },
+  {
+    "word": "measurement",
+    "trans": "n.(量得的)尺寸，大小"
+  },
+  {
+    "word": "mechanics",
+    "trans": "n.力学，机械学；结构"
+  },
+  {
+    "word": "mechanism",
+    "trans": "n.机械装置；机制"
+  },
+  {
+    "word": "meditate",
+    "trans": "vt.沉思，冥想，反省"
+  },
+  {
+    "word": "melancholy",
+    "trans": "n.&a.忧郁(的)，悲伤"
+  },
+  {
+    "word": "melody",
+    "trans": "n.旋律，曲调；歌曲"
+  },
+  {
+    "word": "membership",
+    "trans": "n.成员资格；会员人数"
+  },
+  {
+    "word": "menace",
+    "trans": "vt.&vi.&n.(进行)威胁"
+  },
+  {
+    "word": "mend",
+    "trans": "vt.改正，修正；改进"
+  },
+  {
+    "word": "merchandise",
+    "trans": "n.商品，货物"
+  },
+  {
+    "word": "merciful",
+    "trans": "a.仁慈的，宽大的"
+  },
+  {
+    "word": "mercury",
+    "trans": "n.汞，水银；水银柱"
+  },
+  {
+    "word": "merit",
+    "trans": "vt.值得vi.应受赏(罚)"
+  },
+  {
+    "word": "mesh",
+    "trans": "n.网眼，筛孔，网络"
+  },
+  {
+    "word": "mess",
+    "trans": "vt.弄脏，弄乱，搞糟"
+  },
+  {
+    "word": "message",
+    "trans": "n.启示，要旨，教训"
+  },
+  {
+    "word": "metallic",
+    "trans": "a.金属的 n.金属粒子"
+  },
+  {
+    "word": "metallurgy",
+    "trans": "n.冶金学，冶金术"
+  },
+  {
+    "word": "metropolitan",
+    "trans": "a.主要都市的n.大主教"
+  },
+  {
+    "word": "microprocessor",
+    "trans": "n.微信息处理机"
+  },
+  {
+    "word": "microscopic",
+    "trans": "a.显微镜的，微观的"
+  },
+  {
+    "word": "microwave",
+    "trans": "n.微波"
+  },
+  {
+    "word": "mighty",
+    "trans": "a.强大的；巨大的"
+  },
+  {
+    "word": "migrate",
+    "trans": "vi.迁移，移居"
+  },
+  {
+    "word": "mild",
+    "trans": "a.(烟、酒)味淡的"
+  },
+  {
+    "word": "milky",
+    "trans": "a.牛奶的；乳白色的"
+  },
+  {
+    "word": "millionaire",
+    "trans": "n.百分富翁，巨富"
+  },
+  {
+    "word": "mingle",
+    "trans": "vt.使混合vi.混合起来"
+  },
+  {
+    "word": "miniature",
+    "trans": "n.缩影 a.缩小的"
+  },
+  {
+    "word": "minimize",
+    "trans": "vt.使减到最小"
+  },
+  {
+    "word": "mint",
+    "trans": "n.薄荷；薄荷糖"
+  },
+  {
+    "word": "mint",
+    "trans": "n.造币厂；巨额，富源"
+  },
+  {
+    "word": "mirror",
+    "trans": "n.反映，借鉴"
+  },
+  {
+    "word": "mishief",
+    "trans": "n.调皮，捣蛋，胡闹"
+  },
+  {
+    "word": "miser",
+    "trans": "n.守财奴，吝啬鬼"
+  },
+  {
+    "word": "misery",
+    "trans": "n.痛苦，悲惨，不幸"
+  },
+  {
+    "word": "misfortune",
+    "trans": "n.不幸，灾祸，灾难"
+  },
+  {
+    "word": "missionary",
+    "trans": "n.传教士"
+  },
+  {
+    "word": "mist",
+    "trans": "n.薄雾 vi.下薄雾"
+  },
+  {
+    "word": "mistress",
+    "trans": "n.情妇，情人"
+  },
+  {
+    "word": "mitten",
+    "trans": "n.连指手套；露指手套"
+  },
+  {
+    "word": "mixer",
+    "trans": "n.混合者，搅拌器"
+  },
+  {
+    "word": "mob",
+    "trans": "vi.聚众闹事"
+  },
+  {
+    "word": "mobilize",
+    "trans": "vt.动员 vi.动员起来"
+  },
+  {
+    "word": "mock",
+    "trans": "n.嘲弄 vt.嘲弄，挖苦"
+  },
+  {
+    "word": "moderately",
+    "trans": "ad.适度地，适中"
+  },
+  {
+    "word": "modesty",
+    "trans": "n.谦逊；端庄；羞怯"
+  },
+  {
+    "word": "modification",
+    "trans": "n.缓和；修改；修饰"
+  },
+  {
+    "word": "modulate",
+    "trans": "vt.调整，调节(声音)"
+  },
+  {
+    "word": "module",
+    "trans": "n.模数；模；组件"
+  },
+  {
+    "word": "molecular",
+    "trans": "a.分子的；克分子的"
+  },
+  {
+    "word": "momentary",
+    "trans": "a.瞬息间的，片刻的"
+  },
+  {
+    "word": "monarch",
+    "trans": "n.君主，最高统治者"
+  },
+  {
+    "word": "monk",
+    "trans": "n.和尚，僧侣，修道士"
+  },
+  {
+    "word": "monopoly",
+    "trans": "n.垄断，独占，专利"
+  },
+  {
+    "word": "monster",
+    "trans": "n.怪物；畸形的动植物"
+  },
+  {
+    "word": "monstrous",
+    "trans": "a.可怕的；极大的"
+  },
+  {
+    "word": "moor",
+    "trans": "vt.使停泊；使固定"
+  },
+  {
+    "word": "mop",
+    "trans": "n.墩布，洗碗刷"
+  },
+  {
+    "word": "morality",
+    "trans": "n.道德，美德，品行"
+  },
+  {
+    "word": "mortgage",
+    "trans": "n.抵押 vt.抵押"
+  },
+  {
+    "word": "Moslem",
+    "trans": "n.&a.穆斯林(的)"
+  },
+  {
+    "word": "mosque",
+    "trans": "n.清真寺"
+  },
+  {
+    "word": "moss",
+    "trans": "n.苔藓，地衣"
+  },
+  {
+    "word": "motel",
+    "trans": "n.汽车游客旅馆"
+  },
+  {
+    "word": "motive",
+    "trans": "a.发动的，运动的"
+  },
+  {
+    "word": "motorway",
+    "trans": "n.汽车道，快车路"
+  },
+  {
+    "word": "mount",
+    "trans": "v.装配；固定 n.支架"
+  },
+  {
+    "word": "mountainous",
+    "trans": "a.多山的；山一般的"
+  },
+  {
+    "word": "move",
+    "trans": "n.行动，步骤"
+  },
+  {
+    "word": "multiplication",
+    "trans": "n.增加；繁殖；乘法"
+  },
+  {
+    "word": "multitude",
+    "trans": "n.大批，大群；大量"
+  },
+  {
+    "word": "municipal",
+    "trans": "a.市的，市立的"
+  },
+  {
+    "word": "murmur",
+    "trans": "n.低沉连续的声音"
+  },
+  {
+    "word": "muscular",
+    "trans": "a.肌肉发达的，强健的"
+  },
+  {
+    "word": "muse",
+    "trans": "vi.沉思，默想，冥想"
+  },
+  {
+    "word": "mustard",
+    "trans": "n.芥子，芥末"
+  },
+  {
+    "word": "mute",
+    "trans": "n.弱音器；闭止音"
+  },
+  {
+    "word": "mystery",
+    "trans": "n.神秘小说，侦探小说"
+  },
+  {
+    "word": "napkin",
+    "trans": "n.餐巾(纸)"
+  },
+  {
+    "word": "narration",
+    "trans": "n.叙述；故事；叙述法"
+  },
+  {
+    "word": "negative",
+    "trans": "a.负的，阴性的"
+  },
+  {
+    "word": "negligible",
+    "trans": "a.微不足道的"
+  },
+  {
+    "word": "negotiate",
+    "trans": "vi.谈判，交涉，议定"
+  },
+  {
+    "word": "neighbouring",
+    "trans": "a.邻近的，接壤的"
+  },
+  {
+    "word": "nest",
+    "trans": "vi.筑巢 vt.为…筑巢"
+  },
+  {
+    "word": "net",
+    "trans": "vt.用网捕；用网覆盖"
+  },
+  {
+    "word": "network",
+    "trans": "n.网络；广播网"
+  },
+  {
+    "word": "neutron",
+    "trans": "n.中子"
+  },
+  {
+    "word": "nice",
+    "trans": "a.细微的，微妙的"
+  },
+  {
+    "word": "nickel",
+    "trans": "n.镍；镍币"
+  },
+  {
+    "word": "nickname",
+    "trans": "n.绰号，浑号"
+  },
+  {
+    "word": "nightmare",
+    "trans": "n.恶梦；经常的恐惧"
+  },
+  {
+    "word": "nominate",
+    "trans": "vt.提名，推荐；任命"
+  },
+  {
+    "word": "norm",
+    "trans": "n.标准，规范；平均数"
+  },
+  {
+    "word": "normalization",
+    "trans": "n.正常化，标准化"
+  },
+  {
+    "word": "northward(s)",
+    "trans": "ad.向北方 a.向北的"
+  },
+  {
+    "word": "nose",
+    "trans": "n.突出部分(如船头等)"
+  },
+  {
+    "word": "notable",
+    "trans": "n.值得注意的；著名的"
+  },
+  {
+    "word": "noted",
+    "trans": "a.著名的，知名的"
+  },
+  {
+    "word": "notify",
+    "trans": "vt.通知，告知；报告"
+  },
+  {
+    "word": "notion",
+    "trans": "n.概念，意念；看法"
+  },
+  {
+    "word": "notorious",
+    "trans": "a.臭名昭著的"
+  },
+  {
+    "word": "notwithstanding",
+    "trans": "prep.尽管，虽然"
+  },
+  {
+    "word": "nought",
+    "trans": "n.无，零"
+  },
+  {
+    "word": "nourish",
+    "trans": "vt.提供养分，养育"
+  },
+  {
+    "word": "nourishment",
+    "trans": "n.食物；营养(情况)"
+  },
+  {
+    "word": "novel",
+    "trans": "a.新的，异常的"
+  },
+  {
+    "word": "novelty",
+    "trans": "n.新颖；新奇的事物"
+  },
+  {
+    "word": "nucleus",
+    "trans": "n.原子核；细胞核"
+  },
+  {
+    "word": "number",
+    "trans": "vt.共计，达…之数"
+  },
+  {
+    "word": "numerical",
+    "trans": "a.数字的，数值的"
+  },
+  {
+    "word": "nun",
+    "trans": "n.修女，尼姑"
+  },
+  {
+    "word": "nursery",
+    "trans": "n.苗圃，养鱼池"
+  },
+  {
+    "word": "nut",
+    "trans": "n.螺帽，螺母"
+  },
+  {
+    "word": "oar",
+    "trans": "n.桨；划手 vi.划(行)"
+  },
+  {
+    "word": "oath",
+    "trans": "n.誓言，誓约，宣誓"
+  },
+  {
+    "word": "obedience",
+    "trans": "n.服从，顺从；管辖"
+  },
+  {
+    "word": "obedient",
+    "trans": "n.服从的，顺从的"
+  },
+  {
+    "word": "objective",
+    "trans": "n.宾格 a.目标的"
+  },
+  {
+    "word": "obligation",
+    "trans": "n.义务，职责，责任"
+  },
+  {
+    "word": "oblige",
+    "trans": "vt.使感激；施恩惠于"
+  },
+  {
+    "word": "obscure",
+    "trans": "a.阴暗的；蒙昧的"
+  },
+  {
+    "word": "observation",
+    "trans": "n.意见，短评，按语"
+  },
+  {
+    "word": "observe",
+    "trans": "vi.说，评述，评论"
+  },
+  {
+    "word": "obstinate",
+    "trans": "a.固执的；顽强的"
+  },
+  {
+    "word": "occurrence",
+    "trans": "n.事故"
+  },
+  {
+    "word": "offence",
+    "trans": "n.犯罪，犯规；冒犯"
+  },
+  {
+    "word": "offensive",
+    "trans": "a.冒犯的；进攻的"
+  },
+  {
+    "word": "offer",
+    "trans": "vt.呈现出 vi.出现"
+  },
+  {
+    "word": "offset",
+    "trans": "n.分支，抵销 vt.抵销"
+  },
+  {
+    "word": "offspring",
+    "trans": "n.儿女，子孙，后代"
+  },
+  {
+    "word": "ohm",
+    "trans": "n.欧姆"
+  },
+  {
+    "word": "olive",
+    "trans": "n.橄榄，橄榄树"
+  },
+  {
+    "word": "onward(s)",
+    "trans": "a.向前(的)，在前面"
+  },
+  {
+    "word": "opaque",
+    "trans": "a.不透明的；不传导的"
+  },
+  {
+    "word": "operation",
+    "trans": "n.运算"
+  },
+  {
+    "word": "opium",
+    "trans": "n.鸦片；麻醉剂"
+  },
+  {
+    "word": "optical",
+    "trans": "a.光的；光学的"
+  },
+  {
+    "word": "optimism",
+    "trans": "n.乐观，乐观主义"
+  },
+  {
+    "word": "optimum",
+    "trans": "n.最适条件，最适度"
+  },
+  {
+    "word": "option",
+    "trans": "n.选择，取舍"
+  },
+  {
+    "word": "orchard",
+    "trans": "n.果园"
+  },
+  {
+    "word": "orchestra",
+    "trans": "n.管弦乐队的全部乐器"
+  },
+  {
+    "word": "ordinarily",
+    "trans": "ad.通常，大概"
+  },
+  {
+    "word": "orient",
+    "trans": "n.东方；亚洲，远东"
+  },
+  {
+    "word": "orientation",
+    "trans": "n.向东；定位；方向"
+  },
+  {
+    "word": "originate",
+    "trans": "vi.发源 vt.首创"
+  },
+  {
+    "word": "ornament",
+    "trans": "n.装饰物 vt.装修"
+  },
+  {
+    "word": "ornamental",
+    "trans": "a.装饰的 n.装饰品"
+  },
+  {
+    "word": "otherwise",
+    "trans": "ad.另外；在其他方面"
+  },
+  {
+    "word": "ought",
+    "trans": "v.aux 早应该，本应"
+  },
+  {
+    "word": "outbreak",
+    "trans": "n.(战争、愤怒等)爆发"
+  },
+  {
+    "word": "outcome",
+    "trans": "n.后果，成果"
+  },
+  {
+    "word": "outermost",
+    "trans": "a.最外面的，最远的"
+  },
+  {
+    "word": "outlaw",
+    "trans": "n.逃犯，歹徒"
+  },
+  {
+    "word": "outlet",
+    "trans": "n.发泄(感情等)的方法"
+  },
+  {
+    "word": "outline",
+    "trans": "vt.概述，概括"
+  },
+  {
+    "word": "outside",
+    "trans": "prep.在…外，向…外"
+  },
+  {
+    "word": "oval",
+    "trans": "a.卵形的 n.卵形"
+  },
+  {
+    "word": "over",
+    "trans": "prep.在(做)…时"
+  },
+  {
+    "word": "overall",
+    "trans": "a.综合的 n.工作服"
+  },
+  {
+    "word": "overestimate",
+    "trans": "vt.过高估计"
+  },
+  {
+    "word": "overflow",
+    "trans": "vt.从…中溢出"
+  },
+  {
+    "word": "overhang",
+    "trans": "vt.悬于…之上vi.悬垂"
+  },
+  {
+    "word": "overhear",
+    "trans": "vt.偶然听到；偷听"
+  },
+  {
+    "word": "overlap",
+    "trans": "vt.与…交搭 vi.重迭"
+  },
+  {
+    "word": "overload",
+    "trans": "vt.使超载"
+  },
+  {
+    "word": "overlook",
+    "trans": "vt.眺望；看漏；宽容"
+  },
+  {
+    "word": "overseas",
+    "trans": "ad.在海外，(向)国外"
+  },
+  {
+    "word": "overtake",
+    "trans": "vt.突然袭击，压倒"
+  },
+  {
+    "word": "overthrow",
+    "trans": "vt.推翻 n.推翻，瓦解"
+  },
+  {
+    "word": "overwhelm",
+    "trans": "vt.压倒，使不知所措"
+  },
+  {
+    "word": "overwhelming",
+    "trans": "a.压倒的，势不可挡的"
+  },
+  {
+    "word": "oxide",
+    "trans": "n.氧化物"
+  },
+  {
+    "word": "oxidize",
+    "trans": "vt.氧化，使生锈"
+  },
+  {
+    "word": "oyster",
+    "trans": "n.牡蛎；沉默寡言的人"
+  },
+  {
+    "word": "pace",
+    "trans": "vi.(马)溜蹄走"
+  },
+  {
+    "word": "pacific",
+    "trans": "a.性情温和的"
+  },
+  {
+    "word": "pal",
+    "trans": "n.好朋友；同谋"
+  },
+  {
+    "word": "pamphlet",
+    "trans": "n.小册子"
+  },
+  {
+    "word": "panel",
+    "trans": "n.(选定的)专门小组"
+  },
+  {
+    "word": "panic",
+    "trans": "n.恐慌，惊慌"
+  },
+  {
+    "word": "pant",
+    "trans": "vi.气喘"
+  },
+  {
+    "word": "panther",
+    "trans": "n.豹，黑豹；美洲狮"
+  },
+  {
+    "word": "pantry",
+    "trans": "n.食品柜，餐具室"
+  },
+  {
+    "word": "pants",
+    "trans": "n.裤子；男用短衬裤"
+  },
+  {
+    "word": "paper",
+    "trans": "vt.用纸包装(或覆盖)"
+  },
+  {
+    "word": "parachute",
+    "trans": "n.降落伞；风散种子"
+  },
+  {
+    "word": "parade",
+    "trans": "vt.夸耀(才能等)"
+  },
+  {
+    "word": "paragraph",
+    "trans": "n.小新闻，短评"
+  },
+  {
+    "word": "paralyse",
+    "trans": "vt.使麻痹，使瘫痪"
+  },
+  {
+    "word": "parameter",
+    "trans": "n.参(变)数；参量"
+  },
+  {
+    "word": "participant",
+    "trans": "n.参加者 a.有份的"
+  },
+  {
+    "word": "participate",
+    "trans": "vi.参与 vt.分享"
+  },
+  {
+    "word": "particular",
+    "trans": "a.苛求的；特称的"
+  },
+  {
+    "word": "partition",
+    "trans": "n.分开，分割；融墙"
+  },
+  {
+    "word": "passport",
+    "trans": "n.达到目的的手段"
+  },
+  {
+    "word": "pasture",
+    "trans": "n.牧场；牲畜饲养"
+  },
+  {
+    "word": "patent",
+    "trans": "a.专利的 n.专利"
+  },
+  {
+    "word": "pathetic",
+    "trans": "a.哀婉动人的；可怜的"
+  },
+  {
+    "word": "patriot",
+    "trans": "n.爱国者，爱国主义者"
+  },
+  {
+    "word": "patriotic",
+    "trans": "a.爱国的"
+  },
+  {
+    "word": "patrol",
+    "trans": "n.巡逻 n.巡逻，巡查"
+  },
+  {
+    "word": "patron",
+    "trans": "n.庇护人；赞助人"
+  },
+  {
+    "word": "pattern",
+    "trans": "vt.仿制，仿造，模仿"
+  },
+  {
+    "word": "peacock",
+    "trans": "n.孔雀"
+  },
+  {
+    "word": "peak",
+    "trans": "n.(物体的)尖端"
+  },
+  {
+    "word": "peck",
+    "trans": "vt.&vi.啄，啄起"
+  },
+  {
+    "word": "peculiarity",
+    "trans": "n.特性，独特性；怪癖"
+  },
+  {
+    "word": "pedal",
+    "trans": "n.踏脚，踏板，脚蹬"
+  },
+  {
+    "word": "pedestrian",
+    "trans": "n.行人，步行者"
+  },
+  {
+    "word": "pedlar",
+    "trans": "n.(挨户兜售的)小贩"
+  },
+  {
+    "word": "peel",
+    "trans": "n.果皮，蔬菜皮"
+  },
+  {
+    "word": "peer",
+    "trans": "vi.凝视；隐约出现"
+  },
+  {
+    "word": "penalty",
+    "trans": "n.处罚，刑罚；罚款"
+  },
+  {
+    "word": "penetration",
+    "trans": "n.穿入；渗透，侵入"
+  },
+  {
+    "word": "pendulum",
+    "trans": "n.(钟等的)摆"
+  },
+  {
+    "word": "perception",
+    "trans": "n.感觉；概念；理解力"
+  },
+  {
+    "word": "perch",
+    "trans": "n.(禽鸟的)栖木"
+  },
+  {
+    "word": "perfect",
+    "trans": "vt.使熟练，使改善"
+  },
+  {
+    "word": "perfection",
+    "trans": "n.尽善尽美；无比精确"
+  },
+  {
+    "word": "peril",
+    "trans": "n.危机；危险的事物"
+  },
+  {
+    "word": "perimeter",
+    "trans": "n.周(边)，周长"
+  },
+  {
+    "word": "periodic",
+    "trans": "n.周期的；一定时期的"
+  },
+  {
+    "word": "periodical",
+    "trans": "n.期刊，杂志"
+  },
+  {
+    "word": "peripheral",
+    "trans": "a.周界的；末梢的"
+  },
+  {
+    "word": "perish",
+    "trans": "vi.死亡，夭折；枯萎"
+  },
+  {
+    "word": "perpendicular",
+    "trans": "a.垂直的 n.垂直(线)"
+  },
+  {
+    "word": "perpetual",
+    "trans": "a.永久的；四季开花的"
+  },
+  {
+    "word": "perplex",
+    "trans": "vt.迷惑，困惑，难住"
+  },
+  {
+    "word": "persecute",
+    "trans": "vt.迫害，残害"
+  },
+  {
+    "word": "persevere",
+    "trans": "vi.坚持，不屈不挠"
+  },
+  {
+    "word": "persist",
+    "trans": "vi.持续，存留"
+  },
+  {
+    "word": "persistence",
+    "trans": "n.坚持；持续，存留"
+  },
+  {
+    "word": "personality",
+    "trans": "n.人格，个性；人物"
+  },
+  {
+    "word": "personnel",
+    "trans": "n.人事部门"
+  },
+  {
+    "word": "persuasion",
+    "trans": "n.劝说，说服；主张"
+  },
+  {
+    "word": "pertinent",
+    "trans": "a.恰当的；有关的"
+  },
+  {
+    "word": "pest",
+    "trans": "n.害虫；害人虫"
+  },
+  {
+    "word": "petition",
+    "trans": "n.请愿 vt.向…请愿"
+  },
+  {
+    "word": "petty",
+    "trans": "a.细小的；器量小的"
+  },
+  {
+    "word": "photoelectric",
+    "trans": "a.光电的"
+  },
+  {
+    "word": "photography",
+    "trans": "n.摄影术"
+  },
+  {
+    "word": "physically",
+    "trans": "ad.物质上；体格上"
+  },
+  {
+    "word": "pickle",
+    "trans": "n.腌制食品，泡菜"
+  },
+  {
+    "word": "pier",
+    "trans": "n.(桥)墩；码头"
+  },
+  {
+    "word": "pierce",
+    "trans": "vt.穿透，戳穿，洞察"
+  },
+  {
+    "word": "pilgrim",
+    "trans": "n.香客，朝圣者"
+  },
+  {
+    "word": "pineapple",
+    "trans": "n.凤梨，波萝"
+  },
+  {
+    "word": "pious",
+    "trans": "a.虔诚的；虔奉宗教的"
+  },
+  {
+    "word": "pipe",
+    "trans": "n.管乐器"
+  },
+  {
+    "word": "pirate",
+    "trans": "n.海盗；每盗船"
+  },
+  {
+    "word": "piston",
+    "trans": "n.活塞"
+  },
+  {
+    "word": "pitch",
+    "trans": "n.人造树脂"
+  },
+  {
+    "word": "plague",
+    "trans": "n.瘟疫，鼠疫；天灾"
+  },
+  {
+    "word": "plain",
+    "trans": "a.坦白的；普通的"
+  },
+  {
+    "word": "plastic",
+    "trans": "a.塑料的；塑性的"
+  },
+  {
+    "word": "plateau",
+    "trans": "n.高原；平稳时期"
+  },
+  {
+    "word": "platform",
+    "trans": "n.政纲，党纲，宣言"
+  },
+  {
+    "word": "plea",
+    "trans": "n.请愿，请求，恳求"
+  },
+  {
+    "word": "plead",
+    "trans": "vt.为…辩护 vi.抗辩"
+  },
+  {
+    "word": "pledge",
+    "trans": "n.誓言 vt.使发誓"
+  },
+  {
+    "word": "pluck",
+    "trans": "vt.鼓起(勇气)，振作"
+  },
+  {
+    "word": "plump",
+    "trans": "vt.丰满的；鼓起的"
+  },
+  {
+    "word": "plunder",
+    "trans": "v.&n.掠夺，劫掠"
+  },
+  {
+    "word": "pneumatic",
+    "trans": "a.空气的；气动的"
+  },
+  {
+    "word": "poke",
+    "trans": "vt.戳，刺；伸(头等)"
+  },
+  {
+    "word": "polar",
+    "trans": "a.南(北)极的；极性的"
+  },
+  {
+    "word": "polarity",
+    "trans": "n.极性；(思想等)归向"
+  },
+  {
+    "word": "politics",
+    "trans": "n.政纲，政见，策略"
+  },
+  {
+    "word": "poll",
+    "trans": "n.投票 vi.投票"
+  },
+  {
+    "word": "polymer",
+    "trans": "n.聚合物，多聚物"
+  },
+  {
+    "word": "ponder",
+    "trans": "vt.考虑 vi.沉思"
+  },
+  {
+    "word": "pop",
+    "trans": "vi.(意外地)出现"
+  },
+  {
+    "word": "pope",
+    "trans": "n.(罗马天主教的)教皇"
+  },
+  {
+    "word": "popularity",
+    "trans": "n.通俗性；普及，流行"
+  },
+  {
+    "word": "porcelain",
+    "trans": "n.瓷 a.瓷的，瓷制的"
+  },
+  {
+    "word": "pore",
+    "trans": "n.毛孔，气孔，细孔"
+  },
+  {
+    "word": "portable",
+    "trans": "a.可移动的"
+  },
+  {
+    "word": "pose",
+    "trans": "vt.(使)摆好姿势"
+  },
+  {
+    "word": "position",
+    "trans": "n.主张，立场；形势"
+  },
+  {
+    "word": "positive",
+    "trans": "a.正的；阳性的"
+  },
+  {
+    "word": "positively",
+    "trans": "ad.确定的，断然"
+  },
+  {
+    "word": "possibility",
+    "trans": "n.可能的事"
+  },
+  {
+    "word": "postal",
+    "trans": "a.邮政的，邮局的"
+  },
+  {
+    "word": "postulate",
+    "trans": "vt.要求，假定，假设"
+  },
+  {
+    "word": "poultry",
+    "trans": "n.家禽"
+  },
+  {
+    "word": "practicable",
+    "trans": "a.能实行的；适用的"
+  },
+  {
+    "word": "prairie",
+    "trans": "n.大草原，牧场"
+  },
+  {
+    "word": "preach",
+    "trans": "vt.说教，布道；鼓吹"
+  },
+  {
+    "word": "precede",
+    "trans": "vt.先于… vi.领先"
+  },
+  {
+    "word": "predecessor",
+    "trans": "n.前辈，前任者"
+  },
+  {
+    "word": "prediction",
+    "trans": "n.预言，预告；预报"
+  },
+  {
+    "word": "predominant",
+    "trans": "a.占优势的；主要的"
+  },
+  {
+    "word": "pregnant",
+    "trans": "a.怀孕的；意义深长的"
+  },
+  {
+    "word": "prejudice",
+    "trans": "n.偏见，成见；损害"
+  },
+  {
+    "word": "prescription",
+    "trans": "n.药方，处方的药"
+  },
+  {
+    "word": "presentation",
+    "trans": "n.介绍；赠送；呈现"
+  },
+  {
+    "word": "preservation",
+    "trans": "n.保存，储藏；保持"
+  },
+  {
+    "word": "preset",
+    "trans": "vt.预先装置"
+  },
+  {
+    "word": "preside",
+    "trans": "vi.主持；主奏"
+  },
+  {
+    "word": "press",
+    "trans": "n.印刷机，印刷所"
+  },
+  {
+    "word": "pressure",
+    "trans": "n.电压；大气压力"
+  },
+  {
+    "word": "prestige",
+    "trans": "n.威望，威信，声望"
+  },
+  {
+    "word": "presumably",
+    "trans": "ad.推测起来，大概"
+  },
+  {
+    "word": "presume",
+    "trans": "vt.假定，假设，揣测"
+  },
+  {
+    "word": "prevalent",
+    "trans": "a.流行的；盛行的"
+  },
+  {
+    "word": "prevention",
+    "trans": "n.预防，阻止，妨碍"
+  },
+  {
+    "word": "prey",
+    "trans": "vi.猎物 vi.捕获"
+  },
+  {
+    "word": "prick",
+    "trans": "vt.刺(穿) n.刺孔"
+  },
+  {
+    "word": "primitive",
+    "trans": "a.远古的，未开化的"
+  },
+  {
+    "word": "principally",
+    "trans": "ad.主要，大抵"
+  },
+  {
+    "word": "printer",
+    "trans": "n.印刷工；印花工"
+  },
+  {
+    "word": "priority",
+    "trans": "n.先，前；优先，重点"
+  },
+  {
+    "word": "prism",
+    "trans": "n.棱柱(体)；棱镜"
+  },
+  {
+    "word": "probe",
+    "trans": "n.探针 vt.用探针探查"
+  },
+  {
+    "word": "proceeding",
+    "trans": "n.程序，行动，事项"
+  },
+  {
+    "word": "producer",
+    "trans": "n.生产者；舞台监督"
+  },
+  {
+    "word": "productive",
+    "trans": "a.生产的；出产…的"
+  },
+  {
+    "word": "productivity",
+    "trans": "n.生产率；多产"
+  },
+  {
+    "word": "proficiency",
+    "trans": "n.熟练，精通"
+  },
+  {
+    "word": "proficient",
+    "trans": "a.熟练的，精通的"
+  },
+  {
+    "word": "profitable",
+    "trans": "a.有利的；有益的"
+  },
+  {
+    "word": "profound",
+    "trans": "a.深刻的；渊博的"
+  },
+  {
+    "word": "program",
+    "trans": "vi.编制程序"
+  },
+  {
+    "word": "prohibition",
+    "trans": "n.禁止；禁令，禁律"
+  },
+  {
+    "word": "projector",
+    "trans": "n.投影仪；探照灯"
+  },
+  {
+    "word": "prolong",
+    "trans": "vt.延长，拉长，拖延"
+  },
+  {
+    "word": "promotion",
+    "trans": "n.促进；提升；创立"
+  },
+  {
+    "word": "promptly",
+    "trans": "ad.敏捷地，迅速地"
+  },
+  {
+    "word": "propaganda",
+    "trans": "n.宣传；宣传机构"
+  },
+  {
+    "word": "propagate",
+    "trans": "vt.繁殖；传播，普及"
+  },
+  {
+    "word": "propagation",
+    "trans": "n.繁殖；传播；蔓延"
+  },
+  {
+    "word": "propel",
+    "trans": "vt.推进，推动"
+  },
+  {
+    "word": "propeller",
+    "trans": "n.螺旋桨，推进器"
+  },
+  {
+    "word": "proper",
+    "trans": "a.合乎体统的，正派的"
+  },
+  {
+    "word": "prophecy",
+    "trans": "n.预言，预言能力"
+  },
+  {
+    "word": "prophet",
+    "trans": "n.预言家，先知"
+  },
+  {
+    "word": "proposition",
+    "trans": "n.命题，主题；提议"
+  },
+  {
+    "word": "propulsion",
+    "trans": "n.推进，推进力"
+  },
+  {
+    "word": "prose",
+    "trans": "n.散文"
+  },
+  {
+    "word": "proton",
+    "trans": "n.质子，氕核"
+  },
+  {
+    "word": "prototype",
+    "trans": "n.原型；典型，范例"
+  },
+  {
+    "word": "proverb",
+    "trans": "n.谚语，格言，箴言"
+  },
+  {
+    "word": "province",
+    "trans": "n.领域，范围，职权"
+  },
+  {
+    "word": "provision",
+    "trans": "n.规定，条款，条项"
+  },
+  {
+    "word": "provoke",
+    "trans": "vt.对…挑衅；激发"
+  },
+  {
+    "word": "prudent",
+    "trans": "a.谨慎的；精明的"
+  },
+  {
+    "word": "psychology",
+    "trans": "n.心理学；心理"
+  },
+  {
+    "word": "puff",
+    "trans": "vi.喘气 vt.喷(烟等)"
+  },
+  {
+    "word": "pulley",
+    "trans": "n.滑轮，滑车，皮带轮"
+  },
+  {
+    "word": "pumpkin",
+    "trans": "n.南瓜，南瓜藤"
+  },
+  {
+    "word": "punch",
+    "trans": "vt.冲压 n.冲压机"
+  },
+  {
+    "word": "puppy",
+    "trans": "n.小狗；幼小的动物"
+  },
+  {
+    "word": "purify",
+    "trans": "vt.提纯，精炼(金属)"
+  },
+  {
+    "word": "pyjamas",
+    "trans": "n.(宽大的)睡衣裤"
+  },
+  {
+    "word": "qualification",
+    "trans": "n.资格；限制条件"
+  },
+  {
+    "word": "qualify",
+    "trans": "vt.限制，限定，修饰"
+  },
+  {
+    "word": "qualitative",
+    "trans": "a.质的；定性的"
+  },
+  {
+    "word": "quantify",
+    "trans": "vt.确定…的数量"
+  },
+  {
+    "word": "quantitative",
+    "trans": "a.量的；定量的"
+  },
+  {
+    "word": "quarterly",
+    "trans": "a.季度的 ad.季度地"
+  },
+  {
+    "word": "quartz",
+    "trans": "n.石英"
+  },
+  {
+    "word": "quench",
+    "trans": "vt.熄灭，扑灭；压制"
+  },
+  {
+    "word": "quest",
+    "trans": "vt.寻找 vi.追求"
+  },
+  {
+    "word": "question",
+    "trans": "vt.问，询问，讯问"
+  },
+  {
+    "word": "questionable",
+    "trans": "a.可疑的，不可靠的"
+  },
+  {
+    "word": "questionnaire",
+    "trans": "n.调查表，征求意见表"
+  },
+  {
+    "word": "quiver",
+    "trans": "vi.(轻微地)颤动"
+  },
+  {
+    "word": "radial",
+    "trans": "a.光线的；放射的"
+  },
+  {
+    "word": "radiant",
+    "trans": "a.绚丽的；容光焕发的"
+  },
+  {
+    "word": "radiator",
+    "trans": "n.暖气片，散热器"
+  },
+  {
+    "word": "radical",
+    "trans": "a.基本的；激进的"
+  },
+  {
+    "word": "radius",
+    "trans": "n.半径距离；界限"
+  },
+  {
+    "word": "raise",
+    "trans": "vt.提出，发起，发出"
+  },
+  {
+    "word": "raisin",
+    "trans": "n.葡萄干"
+  },
+  {
+    "word": "rally",
+    "trans": "n.&vt.&vi.(重新)集合"
+  },
+  {
+    "word": "ramble",
+    "trans": "vi.闲逛，漫步；聊天"
+  },
+  {
+    "word": "ranch",
+    "trans": "n.(北美洲的)大牧场"
+  },
+  {
+    "word": "random",
+    "trans": "n.随机 a.随机的"
+  },
+  {
+    "word": "range",
+    "trans": "vt.排列；把…分类"
+  },
+  {
+    "word": "rap",
+    "trans": "n.轻敲击声 vt.敲击"
+  },
+  {
+    "word": "rapidity",
+    "trans": "n.快，迅速；陡，险峻"
+  },
+  {
+    "word": "rapture",
+    "trans": "n.狂喜，欢天喜地"
+  },
+  {
+    "word": "rascal",
+    "trans": "n.流氓，恶棍，无赖"
+  },
+  {
+    "word": "rash",
+    "trans": "a.轻率的；鲁莽的"
+  },
+  {
+    "word": "rate",
+    "trans": "n.价格 vt.对…评定"
+  },
+  {
+    "word": "rational",
+    "trans": "a.推理的；适度的"
+  },
+  {
+    "word": "rattle",
+    "trans": "vt.发出格格声"
+  },
+  {
+    "word": "reactor",
+    "trans": "n.反应器；反应堆"
+  },
+  {
+    "word": "realistic",
+    "trans": "a.现实的；现实主义的"
+  },
+  {
+    "word": "realization",
+    "trans": "n.(理想等的)实现"
+  },
+  {
+    "word": "rear",
+    "trans": "vt.饲养，培植；抚养"
+  },
+  {
+    "word": "reason",
+    "trans": "vt.辩论，讨论"
+  },
+  {
+    "word": "rebuke",
+    "trans": "vt.指责，非难，斥责"
+  },
+  {
+    "word": "receiver",
+    "trans": "n.接待者；收受者"
+  },
+  {
+    "word": "recipe",
+    "trans": "n.菜谱，烹饪法；处方"
+  },
+  {
+    "word": "reciprocal",
+    "trans": "a.相互的；互利的"
+  },
+  {
+    "word": "reckless",
+    "trans": "a.粗心大意的；鲁莽的"
+  },
+  {
+    "word": "reckon",
+    "trans": "vi.数，算帐 vt.认为"
+  },
+  {
+    "word": "reclaim",
+    "trans": "vt.开垦，开拓；回收"
+  },
+  {
+    "word": "recognition",
+    "trans": "n.认出，识别；重视"
+  },
+  {
+    "word": "recommendation",
+    "trans": "n.推荐，介绍；建议"
+  },
+  {
+    "word": "reconcile",
+    "trans": "vt.使和好；调停"
+  },
+  {
+    "word": "recreation",
+    "trans": "n.消遣，娱乐活动"
+  },
+  {
+    "word": "rectangle",
+    "trans": "n.矩形，长方形"
+  },
+  {
+    "word": "rectify",
+    "trans": "vt.纠正；调整；精馏"
+  },
+  {
+    "word": "reed",
+    "trans": "n.芦笛，牧笛"
+  },
+  {
+    "word": "reef",
+    "trans": "n.礁，礁石，暗礁"
+  },
+  {
+    "word": "reel",
+    "trans": "vt.卷，绕"
+  },
+  {
+    "word": "referee",
+    "trans": "n.(足球等)裁判员"
+  },
+  {
+    "word": "reference",
+    "trans": "n.参考文献；参照系"
+  },
+  {
+    "word": "refinery",
+    "trans": "n.精炼厂，提炼厂"
+  },
+  {
+    "word": "refrain",
+    "trans": "vi.抑制，制止，忍住"
+  },
+  {
+    "word": "refreshment",
+    "trans": "n.(精力的)恢复，爽快"
+  },
+  {
+    "word": "refugee",
+    "trans": "n.难民，流亡者"
+  },
+  {
+    "word": "regenerative",
+    "trans": "a.新生的；回授的"
+  },
+  {
+    "word": "regime",
+    "trans": "n.政体，政权；制度"
+  },
+  {
+    "word": "regiment",
+    "trans": "n.团，军团；一大群"
+  },
+  {
+    "word": "regularity",
+    "trans": "n.规则性；整齐"
+  },
+  {
+    "word": "regulate",
+    "trans": "vt.调整，调节，对准"
+  },
+  {
+    "word": "regulation",
+    "trans": "n.规章，规则；调节"
+  },
+  {
+    "word": "reign",
+    "trans": "n.朝代"
+  },
+  {
+    "word": "reject",
+    "trans": "vt.舍弃，抛弃；排斥"
+  },
+  {
+    "word": "relay",
+    "trans": "vt.分程传递；使接替"
+  },
+  {
+    "word": "religion",
+    "trans": "n.信念，信条"
+  },
+  {
+    "word": "remainder",
+    "trans": "n.剩余(物)；余数"
+  },
+  {
+    "word": "repay",
+    "trans": "vt.&vi.偿还，报答"
+  },
+  {
+    "word": "repeal",
+    "trans": "vt.撤销；放弃 n.撤销"
+  },
+  {
+    "word": "repel",
+    "trans": "vt.拒绝；使厌恶"
+  },
+  {
+    "word": "replace",
+    "trans": "vt.送还，归还，赔还"
+  },
+  {
+    "word": "replacement",
+    "trans": "n.归还；取代；置换"
+  },
+  {
+    "word": "report",
+    "trans": "n.传说，议论"
+  },
+  {
+    "word": "representation",
+    "trans": "n.描写；陈述；代表"
+  },
+  {
+    "word": "representative",
+    "trans": "a.代表性的；代议制的"
+  },
+  {
+    "word": "reproduce",
+    "trans": "vt.仿造"
+  },
+  {
+    "word": "reproduction",
+    "trans": "n.再生(产)；繁殖"
+  },
+  {
+    "word": "reptile",
+    "trans": "n.爬行动物；两栖动物"
+  },
+  {
+    "word": "requisite",
+    "trans": "a.需要的 n.必需品"
+  },
+  {
+    "word": "resemblance",
+    "trans": "n.相似，相似性"
+  },
+  {
+    "word": "resent",
+    "trans": "vt.对…不满，怨恨"
+  },
+  {
+    "word": "reservation",
+    "trans": "n.保留；预定，预订"
+  },
+  {
+    "word": "reserve",
+    "trans": "n.缄默，自我克制"
+  },
+  {
+    "word": "reside",
+    "trans": "vi.居住，驻扎；属于"
+  },
+  {
+    "word": "resident",
+    "trans": "n.常住者"
+  },
+  {
+    "word": "residual",
+    "trans": "a.剩余的；残数的"
+  },
+  {
+    "word": "resign",
+    "trans": "vt.使顺从，使听任于"
+  },
+  {
+    "word": "resignation",
+    "trans": "n.听从，屈从，顺从"
+  },
+  {
+    "word": "resolute",
+    "trans": "a.坚决的，果敢的"
+  },
+  {
+    "word": "respectable",
+    "trans": "a.可敬的；人格高尚的"
+  },
+  {
+    "word": "response",
+    "trans": "n.回音，回签；灵敏度"
+  },
+  {
+    "word": "responsible",
+    "trans": "a.重要的；可靠的"
+  },
+  {
+    "word": "restrain",
+    "trans": "vt.抑制，制止，遏制"
+  },
+  {
+    "word": "resultant",
+    "trans": "a.作为结果而发生的"
+  },
+  {
+    "word": "resume",
+    "trans": "n.(谋职者的)个人简历"
+  },
+  {
+    "word": "retail",
+    "trans": "n.零售 a.零售的"
+  },
+  {
+    "word": "retard",
+    "trans": "vt.延迟，放慢"
+  },
+  {
+    "word": "retirement",
+    "trans": "n.退休，引退；退隐"
+  },
+  {
+    "word": "retort",
+    "trans": "vt.&vi.反击；反驳"
+  },
+  {
+    "word": "reveal",
+    "trans": "vt.告诉，揭示，泄露"
+  },
+  {
+    "word": "revenue",
+    "trans": "n.收入；收入数目"
+  },
+  {
+    "word": "reverse",
+    "trans": "n.背面，反面"
+  },
+  {
+    "word": "revive",
+    "trans": "vt.&vi.苏醒；复兴"
+  },
+  {
+    "word": "revolve",
+    "trans": "vt.&vi.(使)旋转"
+  },
+  {
+    "word": "ridicule",
+    "trans": "vi.&n.嘲弄，挖苦"
+  },
+  {
+    "word": "rigorous",
+    "trans": "a.(性格等)严峻的"
+  },
+  {
+    "word": "rim",
+    "trans": "n.边；边缘，(眼镜)框"
+  },
+  {
+    "word": "rinse",
+    "trans": "vt.涮，嗽；冲洗"
+  },
+  {
+    "word": "riot",
+    "trans": "n.&vi.骚乱，暴乱"
+  },
+  {
+    "word": "rip",
+    "trans": "vi.撕啐，扯破，划破"
+  },
+  {
+    "word": "ripple",
+    "trans": "n.涟漪，细浪，波纹"
+  },
+  {
+    "word": "roam",
+    "trans": "vt.在…漫步，漫游"
+  },
+  {
+    "word": "roller",
+    "trans": "n.滚柱，滚筒，辊"
+  },
+  {
+    "word": "Roman",
+    "trans": "n.罗马人，古罗马人"
+  },
+  {
+    "word": "romance",
+    "trans": "n.传奇；浪漫文学"
+  },
+  {
+    "word": "romantic",
+    "trans": "a.好幻想的"
+  },
+  {
+    "word": "rooster",
+    "trans": "n.公鸡；狂妄自负的人"
+  },
+  {
+    "word": "rotate",
+    "trans": "vt.&vi.(使)旋转"
+  },
+  {
+    "word": "roundabout",
+    "trans": "a.迂回的；转弯抹角的"
+  },
+  {
+    "word": "routine",
+    "trans": "a.日常的 n.常规"
+  },
+  {
+    "word": "row",
+    "trans": "n.吵嚷，吵架，口角"
+  },
+  {
+    "word": "royalty",
+    "trans": "n.皇家，王族，皇族"
+  },
+  {
+    "word": "ruby",
+    "trans": "n.红宝石"
+  },
+  {
+    "word": "rule",
+    "trans": "n.裁决，裁定"
+  },
+  {
+    "word": "ruthless",
+    "trans": "a.无情的，冷酷的"
+  },
+  {
+    "word": "safeguard",
+    "trans": "n.保护措施；护照"
+  },
+  {
+    "word": "salmon",
+    "trans": "n.鲑，大马哈鱼"
+  },
+  {
+    "word": "salute",
+    "trans": "vt.迎接，欢迎"
+  },
+  {
+    "word": "sandwich",
+    "trans": "vt.夹入，挤进"
+  },
+  {
+    "word": "sardine",
+    "trans": "n.沙丁鱼"
+  },
+  {
+    "word": "satellite",
+    "trans": "n.附属物"
+  },
+  {
+    "word": "satisfaction",
+    "trans": "n.快事，乐事；愉快"
+  },
+  {
+    "word": "satisfactorily",
+    "trans": "ad.圆满地"
+  },
+  {
+    "word": "saturation",
+    "trans": "n.饱和(状态)；浸透"
+  },
+  {
+    "word": "Saturn",
+    "trans": "n.农神；土星"
+  },
+  {
+    "word": "scan",
+    "trans": "n.扫描，扫掠"
+  },
+  {
+    "word": "scandal",
+    "trans": "n.丑事，丑闻；耻辱"
+  },
+  {
+    "word": "scar",
+    "trans": "n.瘢痕"
+  },
+  {
+    "word": "scarcity",
+    "trans": "n.缺乏，不足，萧条"
+  },
+  {
+    "word": "scarlet",
+    "trans": "n.猩红色 a.猩红的"
+  },
+  {
+    "word": "scheme",
+    "trans": "vt.计划 vi.搞阴谋"
+  },
+  {
+    "word": "scholarship",
+    "trans": "n.学问，学识；奖学金"
+  },
+  {
+    "word": "scoff",
+    "trans": "vt.&vi.嘲笑，嘲弄"
+  },
+  {
+    "word": "scope",
+    "trans": "n.眼界"
+  },
+  {
+    "word": "scorch",
+    "trans": "vi.烧焦，枯萎；挖苦"
+  },
+  {
+    "word": "scout",
+    "trans": "vt.搜索，侦察，跟踪"
+  },
+  {
+    "word": "scramble",
+    "trans": "vi.&n.爬行，攀登"
+  },
+  {
+    "word": "scrap",
+    "trans": "n.碎片；废料 vt.废弃"
+  },
+  {
+    "word": "scratch",
+    "trans": "n.起跑线，起步线"
+  },
+  {
+    "word": "scripture",
+    "trans": "n.《圣经》；圣书"
+  },
+  {
+    "word": "scrub",
+    "trans": "n.&vt.擦洗，擦净"
+  },
+  {
+    "word": "sculpture",
+    "trans": "n.雕刻(术)；雕刻品"
+  },
+  {
+    "word": "seam",
+    "trans": "n.缝口；接缝；骨缝"
+  },
+  {
+    "word": "seaport",
+    "trans": "n.海港，港口，港市"
+  },
+  {
+    "word": "seaside",
+    "trans": "n.海滨(胜地)；海边"
+  },
+  {
+    "word": "second",
+    "trans": "vt.支持"
+  },
+  {
+    "word": "second-hand",
+    "trans": "n.旧的，第二手的"
+  },
+  {
+    "word": "section",
+    "trans": "n.切下的部分"
+  },
+  {
+    "word": "seemingly",
+    "trans": "ad.表面上，外表上"
+  },
+  {
+    "word": "segment",
+    "trans": "n.切片，部分；段，节"
+  },
+  {
+    "word": "selection",
+    "trans": "n.精选的东西；选择"
+  },
+  {
+    "word": "senator",
+    "trans": "n.参议员；评议员"
+  },
+  {
+    "word": "sensation",
+    "trans": "n.感觉，知觉；轰动"
+  },
+  {
+    "word": "senseless",
+    "trans": "a.愚蠢的，无意义的"
+  },
+  {
+    "word": "sensible",
+    "trans": "a.明显的，感觉得到的"
+  },
+  {
+    "word": "sensitivity",
+    "trans": "n.敏感(性)；灵敏性"
+  },
+  {
+    "word": "sensor",
+    "trans": "n.传感器，灵敏元件"
+  },
+  {
+    "word": "sentiment",
+    "trans": "n.感情；情操；情绪"
+  },
+  {
+    "word": "sequence",
+    "trans": "n.序列"
+  },
+  {
+    "word": "sermon",
+    "trans": "n.布道，讲道，说教"
+  },
+  {
+    "word": "serpent",
+    "trans": "n.蛇(尤指大蛇或毒蛇)"
+  },
+  {
+    "word": "set",
+    "trans": "n.集(合)"
+  },
+  {
+    "word": "settlement",
+    "trans": "n.调停；(新)住宅区"
+  },
+  {
+    "word": "severe",
+    "trans": "a.激烈的；简朴的"
+  },
+  {
+    "word": "shabby",
+    "trans": "a.褴褛的；破旧的"
+  },
+  {
+    "word": "shade",
+    "trans": "n.(色彩的)浓淡，深浅"
+  },
+  {
+    "word": "shadowy",
+    "trans": "a.有影的；幽暗的"
+  },
+  {
+    "word": "shady",
+    "trans": "a.可疑的，靠不住的"
+  },
+  {
+    "word": "shaft",
+    "trans": "n.(工具的)柄，杆状物"
+  },
+  {
+    "word": "sham",
+    "trans": "n.假冒；膺品 vt.假装"
+  },
+  {
+    "word": "shame",
+    "trans": "vt.使羞愧，玷辱"
+  },
+  {
+    "word": "shameful",
+    "trans": "a.可耻的；不道德的"
+  },
+  {
+    "word": "shark",
+    "trans": "n.鲨鱼；贪婪狡猾的人"
+  },
+  {
+    "word": "sharply",
+    "trans": "ad.严厉地，苛刻地"
+  },
+  {
+    "word": "shatter",
+    "trans": "vt.粉碎，破碎；毁坏"
+  },
+  {
+    "word": "sheer",
+    "trans": "a.纯粹的；全然的"
+  },
+  {
+    "word": "shell",
+    "trans": "n.炮弹，猎枪子弹"
+  },
+  {
+    "word": "sheriff",
+    "trans": "n.郡长；警察局长"
+  },
+  {
+    "word": "shipbuilding",
+    "trans": "n.造船(业)，造船学"
+  },
+  {
+    "word": "shipment",
+    "trans": "n.装货；装载的货物"
+  },
+  {
+    "word": "shipwreck",
+    "trans": "n.船舶失事"
+  },
+  {
+    "word": "shortage",
+    "trans": "n.短缺，不足额"
+  },
+  {
+    "word": "shortcut",
+    "trans": "n.近路，捷径"
+  },
+  {
+    "word": "shorten",
+    "trans": "vt.弄短，缩小，减少"
+  },
+  {
+    "word": "shorthand",
+    "trans": "n.速记，速记法"
+  },
+  {
+    "word": "should",
+    "trans": "v.aux.应该，竟然会"
+  },
+  {
+    "word": "shoulder",
+    "trans": "vt.承担，挑起，肩负"
+  },
+  {
+    "word": "shove",
+    "trans": "vt.推 vi.(使劲)推"
+  },
+  {
+    "word": "shovel",
+    "trans": "n.铲，铁铲 vt.铲"
+  },
+  {
+    "word": "shower",
+    "trans": "vi.下阵雨 vt.使湿透"
+  },
+  {
+    "word": "shrill",
+    "trans": "a.尖声的 vt.尖声地叫"
+  },
+  {
+    "word": "shrimp",
+    "trans": "n.(小)虾，河虾，褐虾"
+  },
+  {
+    "word": "shrine",
+    "trans": "n.神殿，神龛，圣祠"
+  },
+  {
+    "word": "shrub",
+    "trans": "n.灌木，灌木丛"
+  },
+  {
+    "word": "shrug",
+    "trans": "vt.&vi.耸(肩) n.耸肩"
+  },
+  {
+    "word": "shutter",
+    "trans": "n.百叶窗；(相机)快门"
+  },
+  {
+    "word": "shuttle",
+    "trans": "n.(织机的)梭"
+  },
+  {
+    "word": "sideways",
+    "trans": "ad.斜向一边地"
+  },
+  {
+    "word": "siege",
+    "trans": "n.包围，围攻，围困"
+  },
+  {
+    "word": "sift",
+    "trans": "vt.筛，过滤 vi.通过"
+  },
+  {
+    "word": "sight",
+    "trans": "n.情景，名胜，风景"
+  },
+  {
+    "word": "sign",
+    "trans": "n.征兆，迹象，病症"
+  },
+  {
+    "word": "significant",
+    "trans": "a.有效的"
+  },
+  {
+    "word": "signify",
+    "trans": "vt.表示，意味着"
+  },
+  {
+    "word": "silicon",
+    "trans": "n.硅(旧名矽)"
+  },
+  {
+    "word": "similarity",
+    "trans": "n.类似，相似；类似点"
+  },
+  {
+    "word": "simple",
+    "trans": "a.单纯的；迟钝的"
+  },
+  {
+    "word": "simplicity",
+    "trans": "n.单纯，质朴"
+  },
+  {
+    "word": "simultaneous",
+    "trans": "a.同时的，同时存在的"
+  },
+  {
+    "word": "sincerity",
+    "trans": "n.真诚，诚意；真实"
+  },
+  {
+    "word": "singular",
+    "trans": "a.异常的，奇异的"
+  },
+  {
+    "word": "sink",
+    "trans": "n.(厨房内的)洗涤槽"
+  },
+  {
+    "word": "siren",
+    "trans": "n.汽笛，警报器"
+  },
+  {
+    "word": "sitting-room",
+    "trans": "n.起居室"
+  },
+  {
+    "word": "situated",
+    "trans": "a.位于…的"
+  },
+  {
+    "word": "situation",
+    "trans": "n.(建筑物等的)位置"
+  },
+  {
+    "word": "skeleton",
+    "trans": "n.骨骼，骷髅；骨架"
+  },
+  {
+    "word": "skip",
+    "trans": "vi.跳；跳绳；略过"
+  },
+  {
+    "word": "skyscraper",
+    "trans": "n.摩天楼"
+  },
+  {
+    "word": "slack",
+    "trans": "a.萧条的；懈怠的"
+  },
+  {
+    "word": "slander",
+    "trans": "n.&vt.诽谤，诋毁"
+  },
+  {
+    "word": "slang",
+    "trans": "n.俚语；行话，黑话"
+  },
+  {
+    "word": "slap",
+    "trans": "vt.掴，拍 n.巴掌，拍"
+  },
+  {
+    "word": "slaughter",
+    "trans": "vt.&n.屠杀，屠宰"
+  },
+  {
+    "word": "slave",
+    "trans": "vi.作苦工 vt.奴役"
+  },
+  {
+    "word": "slide",
+    "trans": "n.滑板，滑座"
+  },
+  {
+    "word": "slim",
+    "trans": "a.细长的；微小的"
+  },
+  {
+    "word": "slit",
+    "trans": "vt.切开 n.狭长的切口"
+  },
+  {
+    "word": "slumber",
+    "trans": "n.睡眠；沉睡状态"
+  },
+  {
+    "word": "smart",
+    "trans": "vi.刺疼，扎疼，剧痛"
+  },
+  {
+    "word": "smash",
+    "trans": "vt.打碎，打破，粉碎"
+  },
+  {
+    "word": "smuggle",
+    "trans": "vt.私运 vi.走私"
+  },
+  {
+    "word": "snack",
+    "trans": "n.快餐，小吃"
+  },
+  {
+    "word": "snail",
+    "trans": "n.蜗牛；行动缓慢的人"
+  },
+  {
+    "word": "snap",
+    "trans": "vt.猛咬，突然折断"
+  },
+  {
+    "word": "sneer",
+    "trans": "vi.&n.冷笑；嘲笑"
+  },
+  {
+    "word": "sneeze",
+    "trans": "vi.打喷嚏"
+  },
+  {
+    "word": "sniff",
+    "trans": "vi.用鼻子吸 vt.嗅"
+  },
+  {
+    "word": "snob",
+    "trans": "n.势利小人"
+  },
+  {
+    "word": "snobbish",
+    "trans": "a.势利的，谄上欺下的"
+  },
+  {
+    "word": "snore",
+    "trans": "vi.打鼾，打呼噜"
+  },
+  {
+    "word": "sociology",
+    "trans": "n.社会学"
+  },
+  {
+    "word": "sodium",
+    "trans": "n.钠"
+  },
+  {
+    "word": "sofa",
+    "trans": "n.长沙发，沙发"
+  },
+  {
+    "word": "soften",
+    "trans": "vt.使软化 vi.变软弱"
+  },
+  {
+    "word": "softness",
+    "trans": "n.温和，柔和；软弱"
+  },
+  {
+    "word": "software",
+    "trans": "n.(计算机的)软件"
+  },
+  {
+    "word": "solar",
+    "trans": "a.利用太阳光的"
+  },
+  {
+    "word": "solidarity",
+    "trans": "n.团结；休戚相关"
+  },
+  {
+    "word": "solidify",
+    "trans": "vt.&vi.团结；凝固"
+  },
+  {
+    "word": "solo",
+    "trans": "n.独唱，独奏；独唱曲"
+  },
+  {
+    "word": "sophisticated",
+    "trans": "a.老于世故的；高级的"
+  },
+  {
+    "word": "sorrowful",
+    "trans": "a.使人伤心的；悲伤的"
+  },
+  {
+    "word": "southwards",
+    "trans": "ad.向南方"
+  },
+  {
+    "word": "sovereign",
+    "trans": "n.君主 a.统治的"
+  },
+  {
+    "word": "souvenir",
+    "trans": "n.纪念品，黄豆"
+  },
+  {
+    "word": "soy",
+    "trans": "n.酱油；大豆，黄豆"
+  },
+  {
+    "word": "spacious",
+    "trans": "a.广阔的，广大的"
+  },
+  {
+    "word": "span",
+    "trans": "n.(桥墩间的)墩距"
+  },
+  {
+    "word": "spatial",
+    "trans": "a.空间的，占据空间的"
+  },
+  {
+    "word": "specialize",
+    "trans": "vt.使专门化，专业化"
+  },
+  {
+    "word": "species",
+    "trans": "n.种，物种；种类"
+  },
+  {
+    "word": "specification",
+    "trans": "n.载明，详述；规格"
+  },
+  {
+    "word": "specimen",
+    "trans": "n.抽样，样品"
+  },
+  {
+    "word": "spectacle",
+    "trans": "n.场面；景象，奇观"
+  },
+  {
+    "word": "spectator",
+    "trans": "n.参观者，观众"
+  },
+  {
+    "word": "spectrum",
+    "trans": "n.系列，范围；波谱"
+  },
+  {
+    "word": "speculate",
+    "trans": "vi.思索，沉思；投机"
+  },
+  {
+    "word": "spherical",
+    "trans": "a.球形的，球面的"
+  },
+  {
+    "word": "spice",
+    "trans": "n.香料，调味品；香气"
+  },
+  {
+    "word": "spill",
+    "trans": "n.(人)摔下，跌下"
+  },
+  {
+    "word": "spiral",
+    "trans": "a.螺旋(形)的，盘旋的"
+  },
+  {
+    "word": "spite",
+    "trans": "n.恶意，怨恨"
+  },
+  {
+    "word": "splash",
+    "trans": "vt.溅泼 vi.泼水 n.溅"
+  },
+  {
+    "word": "split",
+    "trans": "n.分裂，分化；派系"
+  },
+  {
+    "word": "spokesman",
+    "trans": "n.发言人，代言人"
+  },
+  {
+    "word": "squash",
+    "trans": "vt.压碎 n.鲜果汁"
+  },
+  {
+    "word": "squat",
+    "trans": "vi.&vt.(使)蹲下"
+  },
+  {
+    "word": "squeeze",
+    "trans": "n.压榨；榨取，佣金"
+  },
+  {
+    "word": "stability",
+    "trans": "n.坚定"
+  },
+  {
+    "word": "stagger",
+    "trans": "vi.蹒跚 vt.使摇晃"
+  },
+  {
+    "word": "stainless",
+    "trans": "a.纯洁的；不锈的"
+  },
+  {
+    "word": "stairway",
+    "trans": "n.楼梯"
+  },
+  {
+    "word": "stalk",
+    "trans": "n.主茎，叶柄；高烟囱"
+  },
+  {
+    "word": "stall",
+    "trans": "n.货摊，书摊；厩"
+  },
+  {
+    "word": "stammer",
+    "trans": "vt.口吃地说 n.口吃"
+  },
+  {
+    "word": "standardize",
+    "trans": "vt.使与标准比较"
+  },
+  {
+    "word": "start",
+    "trans": "vt.开动，着手；开设"
+  },
+  {
+    "word": "stationery",
+    "trans": "n.文具；信笺"
+  },
+  {
+    "word": "statistics",
+    "trans": "n.统计，统计数字"
+  },
+  {
+    "word": "steady",
+    "trans": "a.坚定的，扎实的"
+  },
+  {
+    "word": "steak",
+    "trans": "n.大块牛肉；牛排"
+  },
+  {
+    "word": "steal",
+    "trans": "vt.偷偷地做，巧取"
+  },
+  {
+    "word": "stem",
+    "trans": "n.词干；(手表的)转柄"
+  },
+  {
+    "word": "stereo",
+    "trans": "n.立体声 a.立体声的"
+  },
+  {
+    "word": "stern",
+    "trans": "n.艉，船尾；臀部"
+  },
+  {
+    "word": "stew",
+    "trans": "vt.炖 vi.炖着 n.炖肉"
+  },
+  {
+    "word": "stiff",
+    "trans": "a.生硬的"
+  },
+  {
+    "word": "stiffness",
+    "trans": "n.硬度"
+  },
+  {
+    "word": "stillness",
+    "trans": "n.寂静，无声"
+  },
+  {
+    "word": "sting",
+    "trans": "n.剧痛；刺激 vt.刺"
+  },
+  {
+    "word": "stitch",
+    "trans": "n.一针，缝线 vt.缝"
+  },
+  {
+    "word": "stone",
+    "trans": "n.果核，(水果的)硬核"
+  },
+  {
+    "word": "storage",
+    "trans": "n.贮藏，保管；仓库"
+  },
+  {
+    "word": "storm",
+    "trans": "n.爆发 vt.&vi.猛攻"
+  },
+  {
+    "word": "stout",
+    "trans": "a.矮胖的；坚固的"
+  },
+  {
+    "word": "straighten",
+    "trans": "vt.把…弄直vi.挺起来"
+  },
+  {
+    "word": "straightforward",
+    "trans": "a.老实的 ad.坦率地"
+  },
+  {
+    "word": "strait",
+    "trans": "n.海峡"
+  },
+  {
+    "word": "strange",
+    "trans": "a.外地的，异乡的"
+  },
+  {
+    "word": "stray",
+    "trans": "vi.迷路 a.迷路的"
+  },
+  {
+    "word": "streamline",
+    "trans": "n.流线；流线型"
+  },
+  {
+    "word": "strength",
+    "trans": "n.兵力；强度"
+  },
+  {
+    "word": "stride",
+    "trans": "vi.大踏步走 n.大步"
+  },
+  {
+    "word": "strife",
+    "trans": "n.冲突，竞争"
+  },
+  {
+    "word": "striking",
+    "trans": "a.显著的，惊人的"
+  },
+  {
+    "word": "strip",
+    "trans": "n.窄条，长带"
+  },
+  {
+    "word": "strive",
+    "trans": "vi.努力，奋斗，力求"
+  },
+  {
+    "word": "stroll",
+    "trans": "n.散步，溜达，闲逛"
+  },
+  {
+    "word": "stubborn",
+    "trans": "a.顽固的；顽强的"
+  },
+  {
+    "word": "studio",
+    "trans": "n.工作室；播音室"
+  },
+  {
+    "word": "stuffy",
+    "trans": "a.不透气的，闷热的"
+  },
+  {
+    "word": "sturdy",
+    "trans": "a.坚定的；牢固的"
+  },
+  {
+    "word": "subdivide",
+    "trans": "vt.把…再分"
+  },
+  {
+    "word": "subdue",
+    "trans": "vt.使屈服，征服"
+  },
+  {
+    "word": "subject",
+    "trans": "vt.使隶属"
+  },
+  {
+    "word": "subordinate",
+    "trans": "a.下级的，辅助的"
+  },
+  {
+    "word": "subscribe",
+    "trans": "vi.订购，认购；预订"
+  },
+  {
+    "word": "subscript",
+    "trans": "a.写在下方的 n.下标"
+  },
+  {
+    "word": "subscription",
+    "trans": "n.预约，用户，订阅费"
+  },
+  {
+    "word": "subsequent",
+    "trans": "a.尔后的"
+  },
+  {
+    "word": "subsequently",
+    "trans": "ad.其后，其次，接着"
+  },
+  {
+    "word": "subsidiary",
+    "trans": "a.辅助的，补充的"
+  },
+  {
+    "word": "substance",
+    "trans": "n.财产；内容，本旨"
+  },
+  {
+    "word": "substantial",
+    "trans": "a.物质的；坚固的"
+  },
+  {
+    "word": "subtle",
+    "trans": "a.微妙的；精巧的"
+  },
+  {
+    "word": "succession",
+    "trans": "n.继承(权)，后裔"
+  },
+  {
+    "word": "successor",
+    "trans": "n.继承人，继任者"
+  },
+  {
+    "word": "suffice",
+    "trans": "vi.足够；有能力"
+  },
+  {
+    "word": "suicide",
+    "trans": "n.&vi.&vt.自杀"
+  },
+  {
+    "word": "suit",
+    "trans": "vt.使配合vi.彼此协调"
+  },
+  {
+    "word": "suitcase",
+    "trans": "n.小提箱，衣箱"
+  },
+  {
+    "word": "sullen",
+    "trans": "a.绷着脸不高兴的"
+  },
+  {
+    "word": "summary",
+    "trans": "a.概括的；速决的"
+  },
+  {
+    "word": "summit",
+    "trans": "n.顶点，最高点；极度"
+  },
+  {
+    "word": "summon",
+    "trans": "vt.召唤；鼓起(勇气)"
+  },
+  {
+    "word": "superb",
+    "trans": "a.壮丽的；超等的"
+  },
+  {
+    "word": "superficial",
+    "trans": "a.表面的；肤浅的"
+  },
+  {
+    "word": "superiority",
+    "trans": "n.优越(性)，优势"
+  },
+  {
+    "word": "supersonic",
+    "trans": "a.超声的，超声速的"
+  },
+  {
+    "word": "superstition",
+    "trans": "n.迷信，迷信行为"
+  },
+  {
+    "word": "supervise",
+    "trans": "vt.&vi.监督，监视"
+  },
+  {
+    "word": "supplement",
+    "trans": "n.补角"
+  },
+  {
+    "word": "support",
+    "trans": "vt.经受，承受，忍受"
+  },
+  {
+    "word": "suppress",
+    "trans": "vt.镇压；抑制；隐瞒"
+  },
+  {
+    "word": "surpass",
+    "trans": "vt.超过，超越，胜过"
+  },
+  {
+    "word": "surplus",
+    "trans": "n.过剩，剩余(物资)"
+  },
+  {
+    "word": "survival",
+    "trans": "n.幸存，残存；幸存者"
+  },
+  {
+    "word": "suspicious",
+    "trans": "a.可疑的；猜疑的"
+  },
+  {
+    "word": "sweeten",
+    "trans": "vt.使变甜 vi.变甜"
+  },
+  {
+    "word": "sweetness",
+    "trans": "n.甜蜜；新鲜；温和"
+  },
+  {
+    "word": "swell",
+    "trans": "vi.&vt.使膨胀，隆起"
+  },
+  {
+    "word": "switch",
+    "trans": "n.(树木的)软枝条"
+  },
+  {
+    "word": "symmetrical",
+    "trans": "a.对称的，匀称的"
+  },
+  {
+    "word": "symmetry",
+    "trans": "n.对称(性)，匀称"
+  },
+  {
+    "word": "symphony",
+    "trans": "n.交响乐；交响乐团"
+  },
+  {
+    "word": "symposium",
+    "trans": "n.酒会；座谈会"
+  },
+  {
+    "word": "symptom",
+    "trans": "n.症状，征候，征兆"
+  },
+  {
+    "word": "synthesis",
+    "trans": "n.合成；综合，综合物"
+  },
+  {
+    "word": "systematic",
+    "trans": "a.成体系的；分类的"
+  },
+  {
+    "word": "systematically",
+    "trans": "ad.系统地，有规则地"
+  },
+  {
+    "word": "tabulate",
+    "trans": "vt.把…制成表"
+  },
+  {
+    "word": "tack",
+    "trans": "n.平头打 vt.钉住"
+  },
+  {
+    "word": "tackle",
+    "trans": "vt.解决，对付 n.用具"
+  },
+  {
+    "word": "tact",
+    "trans": "n.机敏，圆滑，得体"
+  },
+  {
+    "word": "tactics",
+    "trans": "n.策略；战术，兵法"
+  },
+  {
+    "word": "tangle",
+    "trans": "vt.使缠结，使纠缠"
+  },
+  {
+    "word": "tanker",
+    "trans": "n.油船；空中加油飞机"
+  },
+  {
+    "word": "tape",
+    "trans": "vt.系，捆"
+  },
+  {
+    "word": "taper",
+    "trans": "n.细小的蜡烛；微光"
+  },
+  {
+    "word": "tar",
+    "trans": "n.柏油，焦油"
+  },
+  {
+    "word": "team",
+    "trans": "vi.协作，合作"
+  },
+  {
+    "word": "tease",
+    "trans": "vt.逗乐，戏弄；强求"
+  },
+  {
+    "word": "telex",
+    "trans": "n.电传，用户电报"
+  },
+  {
+    "word": "tempt",
+    "trans": "vt.引诱，诱惑，劝诱"
+  },
+  {
+    "word": "tensile",
+    "trans": "a.张力的；能伸长的"
+  },
+  {
+    "word": "terminal",
+    "trans": "n.计算机终端；线接头"
+  },
+  {
+    "word": "terminate",
+    "trans": "vt.&vi.停止，终止"
+  },
+  {
+    "word": "terminology",
+    "trans": "n.术语学，术语"
+  },
+  {
+    "word": "terrace",
+    "trans": "n.平台，阳台，露台"
+  },
+  {
+    "word": "terrify",
+    "trans": "vt.使恐怖，使惊吓"
+  },
+  {
+    "word": "terrorist",
+    "trans": "n.恐怖分子"
+  },
+  {
+    "word": "testify",
+    "trans": "v.证明，证实，作证"
+  },
+  {
+    "word": "Thanksgiving",
+    "trans": "n.感恩节"
+  },
+  {
+    "word": "theatre",
+    "trans": "n.戏剧效果"
+  },
+  {
+    "word": "theft",
+    "trans": "n.盗窃，偷窃(行为)"
+  },
+  {
+    "word": "theme",
+    "trans": "n.题目；词干；主旋律"
+  },
+  {
+    "word": "theorem",
+    "trans": "n.定理；原理，原则"
+  },
+  {
+    "word": "theory",
+    "trans": "n.见解，看法，推测"
+  },
+  {
+    "word": "thereafter",
+    "trans": "ad.此后，以后"
+  },
+  {
+    "word": "therein",
+    "trans": "ad.在那里，在那时"
+  },
+  {
+    "word": "thereof",
+    "trans": "ad.它的，其；由此"
+  },
+  {
+    "word": "thermal",
+    "trans": "a.热的；温泉的"
+  },
+  {
+    "word": "thesis",
+    "trans": "n.论题，论点；论文"
+  },
+  {
+    "word": "thicken",
+    "trans": "vt.使变厚(或粗、密)"
+  },
+  {
+    "word": "thigh",
+    "trans": "n.股，大腿"
+  },
+  {
+    "word": "thorough",
+    "trans": "a.精心的；详尽的"
+  },
+  {
+    "word": "thoughtless",
+    "trans": "a.欠考虑的；自私的"
+  },
+  {
+    "word": "thrash",
+    "trans": "vt.痛打，鞭打 vi.打"
+  },
+  {
+    "word": "thresh",
+    "trans": "vt.打谷，脱粒；推敲"
+  },
+  {
+    "word": "threshold",
+    "trans": "n.门槛；入门，开端"
+  },
+  {
+    "word": "thrifty",
+    "trans": "a.节俭的；兴旺的"
+  },
+  {
+    "word": "thrill",
+    "trans": "vt.&vi.(使)激动"
+  },
+  {
+    "word": "through",
+    "trans": "prep.因为，由于"
+  },
+  {
+    "word": "ticket",
+    "trans": "n.(交通违章)罚款传票"
+  },
+  {
+    "word": "tickle",
+    "trans": "vt.挠，胳肢；逗乐"
+  },
+  {
+    "word": "tighten",
+    "trans": "vt.&vi.(使)变紧"
+  },
+  {
+    "word": "tightly",
+    "trans": "ad.紧地，牢固地"
+  },
+  {
+    "word": "tile",
+    "trans": "n.瓦片，瓷砖；贴砖"
+  },
+  {
+    "word": "tilt",
+    "trans": "vt.&vi.(使)倾斜"
+  },
+  {
+    "word": "timely",
+    "trans": "a.及时的；适时的"
+  },
+  {
+    "word": "tiresome",
+    "trans": "a.使人厌倦的，讨厌的"
+  },
+  {
+    "word": "toad",
+    "trans": "n.蟾蜍，癞蛤蟆"
+  },
+  {
+    "word": "token",
+    "trans": "n.象征；辅币；纪念品"
+  },
+  {
+    "word": "tolerant",
+    "trans": "a.容忍的；有耐力的"
+  },
+  {
+    "word": "tone",
+    "trans": "n.色调，光度；风气"
+  },
+  {
+    "word": "torment",
+    "trans": "n.痛苦 vt.折磨"
+  },
+  {
+    "word": "torpedo",
+    "trans": "n.鱼雷，水雷"
+  },
+  {
+    "word": "torque",
+    "trans": "n.转(力)矩，扭(力)矩"
+  },
+  {
+    "word": "toss",
+    "trans": "vi.翻来复去"
+  },
+  {
+    "word": "tow",
+    "trans": "vt.&n.拖引，牵引"
+  },
+  {
+    "word": "towards",
+    "trans": "prep.为了，有助于"
+  },
+  {
+    "word": "tower",
+    "trans": "vi.高耸，屹立；翱翔"
+  },
+  {
+    "word": "track",
+    "trans": "vi.留下足迹"
+  },
+  {
+    "word": "trade",
+    "trans": "vi.做买卖；交换"
+  },
+  {
+    "word": "trader",
+    "trans": "n.商人；商船"
+  },
+  {
+    "word": "tradesman",
+    "trans": "n.商人；手艺人"
+  },
+  {
+    "word": "tragic",
+    "trans": "a.悲剧性的，悲惨的"
+  },
+  {
+    "word": "tramp",
+    "trans": "vt.&vi.&n.步行，跋涉"
+  },
+  {
+    "word": "trample",
+    "trans": "vt.&vi.&n.践踏，蹂躏"
+  },
+  {
+    "word": "tranquil",
+    "trans": "a.平静的；稳定的"
+  },
+  {
+    "word": "transaction",
+    "trans": "n.处理；交易；和解"
+  },
+  {
+    "word": "transform",
+    "trans": "vt.变压；变换"
+  },
+  {
+    "word": "transition",
+    "trans": "n.转变，变迁；过渡"
+  },
+  {
+    "word": "transmission",
+    "trans": "n.遗传，传染"
+  },
+  {
+    "word": "transplant",
+    "trans": "vt.&vi.移植，移种"
+  },
+  {
+    "word": "transverse",
+    "trans": "a.横切的 n.横轴"
+  },
+  {
+    "word": "traverse",
+    "trans": "vt.横越，横切，横断"
+  },
+  {
+    "word": "tread",
+    "trans": "vi.&vt.踩，踏，践踏"
+  },
+  {
+    "word": "treasurer",
+    "trans": "n.司库，财务主管"
+  },
+  {
+    "word": "trench",
+    "trans": "n.深沟；壕沟，战壕"
+  },
+  {
+    "word": "triangular",
+    "trans": "a.三角的；三者间的"
+  },
+  {
+    "word": "tribute",
+    "trans": "n.贡物；献礼，贡献"
+  },
+  {
+    "word": "trifle",
+    "trans": "vi.玩忽；闲混；嬉耍"
+  },
+  {
+    "word": "trigger",
+    "trans": "n.扳机 vt.触发，引起"
+  },
+  {
+    "word": "triumphant",
+    "trans": "a.得胜的；得意洋洋的"
+  },
+  {
+    "word": "trivial",
+    "trans": "a.琐碎的；平常的"
+  },
+  {
+    "word": "trolley",
+    "trans": "n.手推车；无轨电车"
+  },
+  {
+    "word": "troop",
+    "trans": "n.一群，一队，大量"
+  },
+  {
+    "word": "tropic",
+    "trans": "n.热带地区；回归线"
+  },
+  {
+    "word": "tropical",
+    "trans": "a.热带的；炎热的"
+  },
+  {
+    "word": "trot",
+    "trans": "vi.&n.(马)小跑，慢跑"
+  },
+  {
+    "word": "troublesome",
+    "trans": "a.累赘的，困难的"
+  },
+  {
+    "word": "tuberculosis",
+    "trans": "n.结核病，肺结核"
+  },
+  {
+    "word": "tug",
+    "trans": "vi.用力拖 n.猛拉，拖"
+  },
+  {
+    "word": "tulip",
+    "trans": "n.郁金香"
+  },
+  {
+    "word": "tuna",
+    "trans": "n.金枪鱼"
+  },
+  {
+    "word": "turtle",
+    "trans": "n.海龟，玳瑁；甲鱼肉"
+  },
+  {
+    "word": "tutor",
+    "trans": "vt.教，指导"
+  },
+  {
+    "word": "twilight",
+    "trans": "n.黎明，黄昏；曙光"
+  },
+  {
+    "word": "twist",
+    "trans": "v.歪曲，曲解"
+  },
+  {
+    "word": "tyranny",
+    "trans": "n.暴政，专制；残暴"
+  },
+  {
+    "word": "tyrant",
+    "trans": "n.暴君；专制君主"
+  },
+  {
+    "word": "ultimate",
+    "trans": "a.基本的，首要的"
+  },
+  {
+    "word": "ultrasonic",
+    "trans": "a.超声的 n.超声波"
+  },
+  {
+    "word": "ultraviolet",
+    "trans": "a.紫外的n.紫外线辐射"
+  },
+  {
+    "word": "unanimous",
+    "trans": "a.(全体)一致的"
+  },
+  {
+    "word": "uncertain",
+    "trans": "a.不定的；无常的"
+  },
+  {
+    "word": "underestimate",
+    "trans": "vt.低估，看轻"
+  },
+  {
+    "word": "underline",
+    "trans": "vt.着重；预告"
+  },
+  {
+    "word": "undertake",
+    "trans": "vt.约定，保证；从事"
+  },
+  {
+    "word": "undertaking",
+    "trans": "n.任务，事业；承担"
+  },
+  {
+    "word": "underwear",
+    "trans": "n.衫衣，内衣，贴身衣"
+  },
+  {
+    "word": "undesirable",
+    "trans": "a.不合需要的；讨厌的"
+  },
+  {
+    "word": "uneasy",
+    "trans": "a.不安的；拘束的"
+  },
+  {
+    "word": "unemployment",
+    "trans": "n.失业；失业人数"
+  },
+  {
+    "word": "unfit",
+    "trans": "a.不合适的；无能力的"
+  },
+  {
+    "word": "unfold",
+    "trans": "vt.展开 vi.呈现"
+  },
+  {
+    "word": "uniformly",
+    "trans": "ad.相同地；一贯"
+  },
+  {
+    "word": "unique",
+    "trans": "a.无可匹敌的；极好的"
+  },
+  {
+    "word": "universally",
+    "trans": "ad.普遍地，一般地"
+  },
+  {
+    "word": "unlimited",
+    "trans": "a.无限的；不定的"
+  },
+  {
+    "word": "unlock",
+    "trans": "vt.开…的锁；开启"
+  },
+  {
+    "word": "unpaid",
+    "trans": "a.未付的；不支薪水的"
+  },
+  {
+    "word": "unreasonable",
+    "trans": "a.不讲道理的；过度的"
+  },
+  {
+    "word": "untie",
+    "trans": "vt.解开，松开；解放"
+  },
+  {
+    "word": "uphold",
+    "trans": "vt.举起；支撑；赞成"
+  },
+  {
+    "word": "uproar",
+    "trans": "n.骚动，扰乱；喧嚣"
+  },
+  {
+    "word": "uranium",
+    "trans": "n.铀"
+  },
+  {
+    "word": "urge",
+    "trans": "vt.&vi.强烈希望"
+  },
+  {
+    "word": "usage",
+    "trans": "n.习惯法"
+  },
+  {
+    "word": "utensil",
+    "trans": "n.器皿，用具"
+  },
+  {
+    "word": "utilization",
+    "trans": "n.利用，效用"
+  },
+  {
+    "word": "vaccinate",
+    "trans": "vt.给…种牛痘"
+  },
+  {
+    "word": "validity",
+    "trans": "n.有效，效力；正确"
+  },
+  {
+    "word": "valuable",
+    "trans": "n.贵重物品，财宝"
+  },
+  {
+    "word": "value",
+    "trans": "vt.尊重，重视，评价"
+  },
+  {
+    "word": "valve",
+    "trans": "n.阀，阀门；电子管"
+  },
+  {
+    "word": "vault",
+    "trans": "n.拱顶；地下室，地窖"
+  },
+  {
+    "word": "vector",
+    "trans": "n.矢量；飞机航线"
+  },
+  {
+    "word": "veil",
+    "trans": "vt.以面纱遮掩vi.遮盖"
+  },
+  {
+    "word": "vein",
+    "trans": "n.静脉，血管，矿脉"
+  },
+  {
+    "word": "velocity",
+    "trans": "n.迅速，快速"
+  },
+  {
+    "word": "velvet",
+    "trans": "a.丝绒制的；柔软的"
+  },
+  {
+    "word": "vengeance",
+    "trans": "n.报复，报仇，复仇"
+  },
+  {
+    "word": "ventilate",
+    "trans": "vt.使通风，使换气"
+  },
+  {
+    "word": "Venus",
+    "trans": "n.维纳斯；美人；色情"
+  },
+  {
+    "word": "verge",
+    "trans": "n.边缘，边界，界限"
+  },
+  {
+    "word": "versatile",
+    "trans": "a.多方面的；通用的"
+  },
+  {
+    "word": "verse",
+    "trans": "n.诗，韵文；诗行"
+  },
+  {
+    "word": "version",
+    "trans": "n.解释"
+  },
+  {
+    "word": "versus",
+    "trans": "prep.(比赛等中)对"
+  },
+  {
+    "word": "veto",
+    "trans": "n.否决，否决权，禁止"
+  },
+  {
+    "word": "vicinity",
+    "trans": "n.邻近；附近地区"
+  },
+  {
+    "word": "vicious",
+    "trans": "a.邪恶的；恶性的"
+  },
+  {
+    "word": "video",
+    "trans": "a.录象的"
+  },
+  {
+    "word": "vigorous",
+    "trans": "a.精力旺盛的，茁壮的"
+  },
+  {
+    "word": "vigour",
+    "trans": "n.活力，精力；元气"
+  },
+  {
+    "word": "villa",
+    "trans": "n.别墅；城郊小屋"
+  },
+  {
+    "word": "vine",
+    "trans": "n.蔓，藤，藤本植物"
+  },
+  {
+    "word": "violate",
+    "trans": "vt.违犯，违背；侵犯"
+  },
+  {
+    "word": "violation",
+    "trans": "n.违犯；侵犯，妨碍"
+  },
+  {
+    "word": "violent",
+    "trans": "a.狂暴的；歪曲的"
+  },
+  {
+    "word": "virgin",
+    "trans": "n.处女 a.处女的"
+  },
+  {
+    "word": "virtual",
+    "trans": "a.实际上的，实质上的"
+  },
+  {
+    "word": "visa",
+    "trans": "n.签证"
+  },
+  {
+    "word": "viscous",
+    "trans": "a.粘滞的，粘性的"
+  },
+  {
+    "word": "vision",
+    "trans": "n.视力；眼光，想象力"
+  },
+  {
+    "word": "visit",
+    "trans": "vt.常去"
+  },
+  {
+    "word": "vital",
+    "trans": "a.生命的，生机的"
+  },
+  {
+    "word": "vitamin",
+    "trans": "n.维生素，维他命"
+  },
+  {
+    "word": "vocabulary",
+    "trans": "n.词汇表，词汇汇编"
+  },
+  {
+    "word": "vocation",
+    "trans": "n.职业，行业"
+  },
+  {
+    "word": "void",
+    "trans": "a.空的；无效的"
+  },
+  {
+    "word": "volunteer",
+    "trans": "n.志愿者 vt.志愿"
+  },
+  {
+    "word": "vow",
+    "trans": "n.誓言，誓约，许愿"
+  },
+  {
+    "word": "vowel",
+    "trans": "n.元音；元音字母"
+  },
+  {
+    "word": "vulgar",
+    "trans": "a.粗俗的，庸俗的"
+  },
+  {
+    "word": "wade",
+    "trans": "vt.趟(河)，跋涉"
+  },
+  {
+    "word": "wag",
+    "trans": "vt.摇，摇摆，摆动"
+  },
+  {
+    "word": "waggon",
+    "trans": "n.敞蓬车厢"
+  },
+  {
+    "word": "waitress",
+    "trans": "n.女侍者，女服务员"
+  },
+  {
+    "word": "walnut",
+    "trans": "n.胡桃，核桃树"
+  },
+  {
+    "word": "ward",
+    "trans": "n.病房，病室；监房"
+  },
+  {
+    "word": "wardrobe",
+    "trans": "n.衣柜，衣橱，藏衣室"
+  },
+  {
+    "word": "ware",
+    "trans": "n.商品，货物；物品"
+  },
+  {
+    "word": "warehouse",
+    "trans": "n.仓库，货栈"
+  },
+  {
+    "word": "warfare",
+    "trans": "n.战争，战争状态"
+  },
+  {
+    "word": "warning",
+    "trans": "n.警告，告诫，鉴诫"
+  },
+  {
+    "word": "warrant",
+    "trans": "n.许可证，委任状"
+  },
+  {
+    "word": "wasp",
+    "trans": "n.黄蜂，蚂蜂"
+  },
+  {
+    "word": "wasteful",
+    "trans": "a.浪费的；破坏性的"
+  },
+  {
+    "word": "watchful",
+    "trans": "a.注意的，警惕的"
+  },
+  {
+    "word": "watertight",
+    "trans": "a.不漏水的，防水的"
+  },
+  {
+    "word": "watery",
+    "trans": "a.水的；湿的；乏味的"
+  },
+  {
+    "word": "watt",
+    "trans": "n.瓦(特)"
+  },
+  {
+    "word": "waver",
+    "trans": "vi.摇摆；犹豫不决"
+  },
+  {
+    "word": "way",
+    "trans": "n.状态，状况，规模"
+  },
+  {
+    "word": "weaver",
+    "trans": "n.织布工，编织者"
+  },
+  {
+    "word": "web",
+    "trans": "n.网，丝，网状物"
+  },
+  {
+    "word": "wedge",
+    "trans": "n.楔 vt.楔入；挤入"
+  },
+  {
+    "word": "whale",
+    "trans": "n.鲸；庞然大物"
+  },
+  {
+    "word": "wharf",
+    "trans": "n.码头，停泊所"
+  },
+  {
+    "word": "what",
+    "trans": "a.所…的，尽可能多的"
+  },
+  {
+    "word": "whereby",
+    "trans": "ad.靠什么；靠那个"
+  },
+  {
+    "word": "whilst",
+    "trans": "conj.同…同时；然而"
+  },
+  {
+    "word": "whisker",
+    "trans": "n.髯，连鬓胡子"
+  },
+  {
+    "word": "whisper",
+    "trans": "vt.低声地讲，私下说"
+  },
+  {
+    "word": "white",
+    "trans": "a.白种(人)的"
+  },
+  {
+    "word": "whitewash",
+    "trans": "n.石灰水 vt.粉饰"
+  },
+  {
+    "word": "whoever",
+    "trans": "pron.究竟是谁"
+  },
+  {
+    "word": "wholesome",
+    "trans": "a.适合卫生的"
+  },
+  {
+    "word": "widely",
+    "trans": "ad.大大地"
+  },
+  {
+    "word": "wield",
+    "trans": "vt.挥(剑)；行使"
+  },
+  {
+    "word": "willow",
+    "trans": "n.柳树，柳木"
+  },
+  {
+    "word": "wind",
+    "trans": "n.胸口，心窝"
+  },
+  {
+    "word": "winding",
+    "trans": "n.卷绕着的线a.卷曲的"
+  },
+  {
+    "word": "windmill",
+    "trans": "n.风车"
+  },
+  {
+    "word": "windy",
+    "trans": "a.多风的，刮风的"
+  },
+  {
+    "word": "wink",
+    "trans": "vi.眨眼；使眼色"
+  },
+  {
+    "word": "wisdom",
+    "trans": "n.(古人的)名言，格言"
+  },
+  {
+    "word": "wither",
+    "trans": "vi.枯萎 vt.使衰弱"
+  },
+  {
+    "word": "whereas",
+    "trans": "conj.而，却，反之"
+  },
+  {
+    "word": "witty",
+    "trans": "a.机智的；风趣的"
+  },
+  {
+    "word": "woe",
+    "trans": "n.悲哀，悲痛，苦恼"
+  },
+  {
+    "word": "woodpecker",
+    "trans": "n.啄木鸟"
+  },
+  {
+    "word": "workpiece",
+    "trans": "n.工(作)件"
+  },
+  {
+    "word": "workshop",
+    "trans": "n.专题讨论会"
+  },
+  {
+    "word": "worship",
+    "trans": "vt.崇拜 vi.做礼拜"
+  },
+  {
+    "word": "wrath",
+    "trans": "n.暴怒，狂怒，愤慨"
+  },
+  {
+    "word": "wrench",
+    "trans": "vt.拧，扭伤 n.拧"
+  },
+  {
+    "word": "wrestle",
+    "trans": "n.摔交；斗争，搏斗"
+  },
+  {
+    "word": "wretched",
+    "trans": "a.不幸的；卑鄙的"
+  },
+  {
+    "word": "wring",
+    "trans": "vt.拧，挤，扭，榨"
+  },
+  {
+    "word": "wrinkle",
+    "trans": "n.皱纹 vt.使起皱纹"
+  },
+  {
+    "word": "xerox",
+    "trans": "vt.&vi.用静电复印"
+  },
+  {
+    "word": "yacht",
+    "trans": "n.游艇，快艇"
+  },
+  {
+    "word": "yearn",
+    "trans": "vi.想念，怀念，向往"
+  },
+  {
+    "word": "yeast",
+    "trans": "n.酵母"
+  },
+  {
+    "word": "yoke",
+    "trans": "n.轭，牛轭；枷锁"
+  },
+  {
+    "word": "yolk",
+    "trans": "n.蛋黄，卵黄"
+  },
+  {
+    "word": "youngster",
+    "trans": "n.儿童，少年，年轻人"
+  },
+  {
+    "word": "zinc",
+    "trans": "n.锌 vt.在…上镀锌"
+  },
+  {
+    "word": "",
+    "trans": ""
+  }
+]
