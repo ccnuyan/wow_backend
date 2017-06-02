@@ -2,7 +2,7 @@ export default {
   mode: 'development',
   pg: {
     user: 'postgres',
-    database: 'backend-boilerplate',
+    database: 'wow_backend_dev',
     password: 'admin',
     host: 'localhost',
     port: 32768,

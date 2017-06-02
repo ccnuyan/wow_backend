@@ -47,7 +47,7 @@ language plpgsql;
 create or replace function authenticate_by_token(token varchar)
 returns membership.login_info as $$
 begin
-  return authenticate('token', token, 'token');
+  return membership.authenticate('token', token, 'token');
 end;
 $$
 language plpgsql;
