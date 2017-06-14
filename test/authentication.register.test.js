@@ -5,7 +5,7 @@ const helpers = new Helpers();
 let pool = null;
 
 const params = {
-  username: 'newuser',
+  username: 'testnewuser',
   password: 'password',
 };
 
