@@ -1,5 +1,6 @@
 create table words(
   key varchar(64) primary key not null,
 
-  trans varchar(256)
+  value varchar(256) not null,
+  star int not null
 );

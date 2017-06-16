@@ -9,7 +9,7 @@ BEGIN
   set search_path=membership;
   --find the user by token/provider and key
 
- if(prov = 'local') then
+  if(prov = 'local') then
     select locate_user_by_password(key, token) into found_id;
   else
     select user_id from logins where
@@ -38,16 +38,23 @@ BEGIN
     found_user.gender, 
     found_user.role,  
     success, 
-    return_message,
-    '')::membership.login_info;
+    return_message)::membership.login_info;
 END;
 $$
 language plpgsql;
 
-create or replace function authenticate_by_token(token varchar)
-returns membership.login_info as $$
-begin
-  return membership.authenticate('token', token, 'token');
-end;
-$$
-language plpgsql;
+-- create or replace function authenticate_by_token(token varchar)
+-- returns membership.login_info as $$
+-- begin
+--   return membership.authenticate('token', token, 'token');
+-- end;
+-- $$
+-- language plpgsql;
+
+-- create or replace function authenticate_by_provider_token(prov_key varchar, token varchar, prov varchar)
+-- returns membership.login_info as $$
+-- begin
+--   return membership.authenticate(prov_key, token, prov);
+-- end;
+-- $$
+-- language plpgsql;

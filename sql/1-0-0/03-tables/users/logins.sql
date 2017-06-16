@@ -9,5 +9,5 @@ create table logins(
   
   provider varchar(64) not null default 'local',
   provider_key varchar(255),
-  provider_token varchar(255) not null
+  provider_token varchar(4096) not null
 );

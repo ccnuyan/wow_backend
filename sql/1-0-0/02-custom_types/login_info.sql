@@ -7,6 +7,5 @@ create type login_info as(
   gender varchar,
   role int,
   success boolean,
-  message varchar,
-  token varchar
+  message varchar
 );

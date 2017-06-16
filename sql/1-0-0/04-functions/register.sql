@@ -35,12 +35,6 @@ BEGIN
     insert into logins(user_id, provider_key, provider_token)
     values(new_user.id, new_user.username, crypt(password, gen_salt('bf', 10)));
 
-    -- for token-based login
-    -- generate the token
-    token := random_string(36);
-    insert into logins(user_id, provider, provider_key, provider_token)
-    values(new_user.id, 'token', 'token', token);
-
     success := true;
     message := 'Welcome!';
   else
@@ -57,8 +51,7 @@ BEGIN
     new_user.gender, 
     new_user.role, 
     success,
-    message, 
-    token)::membership.login_info;
+    message)::membership.login_info;
 END;
 $$
 language plpgsql;
