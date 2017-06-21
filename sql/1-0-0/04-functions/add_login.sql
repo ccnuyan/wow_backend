@@ -39,7 +39,14 @@ language plpgsql;
   -- provider is 'local'
   -- provider_key is username
   -- provider_token is password
+
 -- for token user
   -- provider is 'token'
-  -- provider_key is 'token'
-  -- provider_token is randomstring
+  -- provider_key is token
+  -- provider_token is jwttoken
+  
+-- for oauth2 user
+  -- provider is 'qq'
+  -- provider_key is token
+  -- provider_token is jwttoken
+
